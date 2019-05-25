@@ -5,7 +5,7 @@ import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
 import { Link } from "react-router-dom";
 import Button from '@material-ui/core/Button';
-
+import CommonAppBar from "./../../common-component/app-bar";
 
 const styles = theme => ({
     root: {
@@ -25,10 +25,10 @@ const styles = theme => ({
     },
     button: {
         margin: theme.spacing.unit,
-      },
-      input: {
+    },
+    input: {
         display: 'none',
-      },
+    },
 });
 
 
@@ -37,7 +37,7 @@ class BankDetails extends Component {
         bank: []
     }
 
-    componentDidMount(){
+    componentDidMount() {
         this.getBank();
     }
     getBank() {
@@ -47,13 +47,13 @@ class BankDetails extends Component {
             let store = tx.objectStore('bank');
             let allItems = store.getAll();
             allItems.onsuccess = (event) => {
-              //  console.log(event.target.result);
+                //  console.log(event.target.result);
                 this.setState({ bank: event.target.result });
             };
         };
     }
 
-    handleDelete(id){
+    handleDelete(id) {
         let db = indexedDB.open("MyData");
         db.onsuccess = (event) => {
             let tx = event.target.result.transaction(["bank"], "readwrite");
@@ -70,17 +70,25 @@ class BankDetails extends Component {
 
     render() {
         return (
-            <List className={this.props.classes.root} subheader={<li />}>
-                {this.state.bank.map(item => (
-                    <ListItem key={item.bankId}>
-                        <Link to={"/bank/edit/" + item.bankId} >{item.name}</Link>
-                        <Button variant="contained" color="secondary" className={this.props.classes.button}
-                        onClick={this.handleDelete.bind(this, item.bankId)}>
-        Delete
-      </Button>
-                    </ListItem>
-                ))}
-            </List>
+            <div>
+                <CommonAppBar/>
+                <Button variant="contained" color="primary" className={this.props.classes.button}
+                    component={Link} to={"/bank/new"}>
+                    Add
+                 </Button>
+                <List className={this.props.classes.root} subheader={<li />}>
+                    {this.state.bank.map(item => (
+                        <ListItem key={item.bankId}>
+                            <Link to={"/bank/edit/" + item.bankId} >{item.name}</Link>
+                            <Button variant="contained" color="secondary" className={this.props.classes.button}
+                                onClick={this.handleDelete.bind(this, item.bankId)}>
+                                Delete
+                          </Button>
+                        </ListItem>
+                    ))}
+                </List>
+            </div>
+
         )
     }
 }

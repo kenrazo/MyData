@@ -11,12 +11,13 @@ import EditBank from './my-data/bank/bank-edit';
 function App() {
   return (
     <Switch>
-       <Route path="/home" exact component={Home}/> 
-      <Route path="/government" exact component={GovernmentDetails}/>     
-      <Route path="/address" exact component={AddressDetails}/>
-      <Route path="/" exact component={BankDetails} /> 
-      <Route path="/bank/new" exact component={AddBank} /> 
-      <Route path="/bank/edit/:id" exact component={EditBank} /> 
+      <Route path="/bank" exact component={BankDetails} />
+      <Route path="/government" exact component={GovernmentDetails} />
+      <Route path="/address" exact component={AddressDetails} />
+      <Route path="/" exact component={Home} />
+      <Route path="/bank/new" exact component={AddBank} />
+      <Route path="/bank/edit/:id" exact component={EditBank} />
+      <Route path="*" component={Home} />
     </Switch>
   );
 }

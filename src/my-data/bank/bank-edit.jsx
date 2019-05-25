@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import { withStyles } from '@material-ui/core/styles';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
+import CommonAppBar from "./../../common-component/app-bar";
 import { Link } from "react-router-dom";
 
 const styles = theme => ({
@@ -86,7 +87,9 @@ class BankEdit extends Component {
     render() {
         return (
             <div>
+               <CommonAppBar/>
                 <Link to="/bank">Back to list</Link>>
+                <br/>
                 <TextField
                     id="standard-name"
                     label="Name"
@@ -114,6 +117,7 @@ class BankEdit extends Component {
                     value={this.state.expiration}
                     onChange={this.handleOnChange.bind(this, "expiration")}
                 />
+                <br/>
                 <Button variant="contained" className={this.props.classes.button} onClick={this.save.bind(this)}>
                     Save
                </Button>

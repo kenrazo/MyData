@@ -5,6 +5,7 @@ import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
 import { Link } from "react-router-dom";
 import { saveToDb } from "../../database";
+import CommonAppBar from "./../../common-component/app-bar";
 
 const styles = theme => ({
     container: {
@@ -61,7 +62,8 @@ class BankAdd extends Component {
     render() {
         return (
             <div>
-                <Link to="/bank">Back to list</Link>>
+                <CommonAppBar/>
+                <Link to="/bank">Back to list</Link><br/>
                 <TextField
                     id="standard-name"
                     label="Name"
@@ -89,6 +91,7 @@ class BankAdd extends Component {
                     value={this.state.expiration}
                     onChange={this.handleOnChange.bind(this, "expiration")}
                 />
+                <br/>
                 <Button variant="contained" className={this.props.classes.button} onClick={this.save.bind(this)}>
                     Save
                </Button>
