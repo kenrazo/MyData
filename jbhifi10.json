@@ -1,6 +1,916 @@
 {
     "products": [
         {
+            "id": 7333413912777,
+            "title": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TVs (Brown)",
+            "body_html": "<p>The Frame’s interchangeable frame is the secret to interior harmony. It magnetically attaches to the standard charcoal metal frame, allowing The Frame to beautifully complement any space.<br></p>\r\n<p><strong>Key Features</strong></p>\r\n<p><strong>Quick and easy installation - Get a new look, fast</strong><br>It's effortless to refresh The Frame's appearance, with customisable frames that adhere with magnets. Snap on the frame of your choice to update the view.</p>\r\n<p><strong>Simple and harmonious design</strong><br>Each customisable frame fits The Frame seamlessly, accentuating its sleek, clean lines and crisp angles. Just pick the finish that best suits your style.<br><br><strong>Style The Frame for any room and any space<br></strong>Mix and match with a Customisable Frame of your choice, so The Frame fits perfectly into your personal space.</p>",
+            "vendor": "SAMSUNG",
+            "product_type": "VISUAL",
+            "created_at": "2024-12-16T14:05:08+11:00",
+            "handle": "samsung-customisable-bezel-frame-for-2023-32-the-frame-tvs-brown",
+            "updated_at": "2025-01-10T11:45:12+11:00",
+            "published_at": "2024-12-16T14:05:04+11:00",
+            "template_suffix": null,
+            "published_scope": "web",
+            "tags": "LimitedStock",
+            "variants": [
+                {
+                    "id": 40424707489993,
+                    "product_id": 7333413912777,
+                    "title": "Default Title",
+                    "price": "99.00",
+                    "sku": "671833",
+                    "position": 1,
+                    "compare_at_price": "",
+                    "fulfillment_service": "manual",
+                    "inventory_management": "shopify",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2024-12-16T14:05:08+11:00",
+                    "updated_at": "2025-01-10T11:45:12+11:00",
+                    "taxable": true,
+                    "barcode": "8806094944112",
+                    "grams": 500,
+                    "image_id": null,
+                    "weight": 0.5,
+                    "weight_unit": "kg",
+                    "requires_shipping": true,
+                    "quantity_rule": {
+                        "min": 1,
+                        "max": null,
+                        "increment": 1
+                    },
+                    "price_currency": "AUD",
+                    "compare_at_price_currency": "",
+                    "quantity_price_breaks": []
+                }
+            ],
+            "options": [
+                {
+                    "id": 9785025364169,
+                    "product_id": 7333413912777,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 30814757421257,
+                    "product_id": 7333413912777,
+                    "position": 1,
+                    "created_at": "2024-12-16T14:05:08+11:00",
+                    "updated_at": "2024-12-16T14:05:08+11:00",
+                    "alt": null,
+                    "width": 819,
+                    "height": 819,
+                    "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671833-Product-0-I-638699150410910463.jpg?v=1734318308",
+                    "variant_ids": []
+                },
+                {
+                    "id": 30814757454025,
+                    "product_id": 7333413912777,
+                    "position": 2,
+                    "created_at": "2024-12-16T14:05:08+11:00",
+                    "updated_at": "2024-12-16T14:05:08+11:00",
+                    "alt": null,
+                    "width": 1200,
+                    "height": 1200,
+                    "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671833-Product-1-I-638699150405436645.jpg?v=1734318308",
+                    "variant_ids": []
+                },
+                {
+                    "id": 30814757486793,
+                    "product_id": 7333413912777,
+                    "position": 3,
+                    "created_at": "2024-12-16T14:05:08+11:00",
+                    "updated_at": "2024-12-16T14:05:08+11:00",
+                    "alt": null,
+                    "width": 680,
+                    "height": 680,
+                    "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671833-Product-2-I-638699150408367713.jpg?v=1734318308",
+                    "variant_ids": []
+                },
+                {
+                    "id": 30814757519561,
+                    "product_id": 7333413912777,
+                    "position": 4,
+                    "created_at": "2024-12-16T14:05:08+11:00",
+                    "updated_at": "2024-12-16T14:05:08+11:00",
+                    "alt": null,
+                    "width": 660,
+                    "height": 660,
+                    "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671833-Product-3-I-638699150409378477.jpg?v=1734318308",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 30814757421257,
+                "product_id": 7333413912777,
+                "position": 1,
+                "created_at": "2024-12-16T14:05:08+11:00",
+                "updated_at": "2024-12-16T14:05:08+11:00",
+                "alt": null,
+                "width": 819,
+                "height": 819,
+                "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671833-Product-0-I-638699150410910463.jpg?v=1734318308",
+                "variant_ids": []
+            },
+            "additional": {
+                "schemaVersion": 2,
+                "sku": "671833",
+                "online_product_timestamp": "2024-12-17T04:02:41+00:00",
+                "title": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TVs (Brown)",
+                "primary_title": "Samsung Customisable Bezel Frame",
+                "secondary_title": "2023 32\" The Frame TVs (Brown)",
+                "category_id": 1984,
+                "category": "Wall brackets",
+                "category_hierarchy": [
+                    "TVs",
+                    "Audio-visual accessories",
+                    "Wall brackets"
+                ],
+                "category_levels": {
+                    "level0": "TVs",
+                    "level1": "Audio-visual accessories",
+                    "level2": "Wall brackets"
+                },
+                "release_date": 1704632400,
+                "barcode": "8806094944112",
+                "taxable": true,
+                "price": 99,
+                "all_calculated_product_tags": [],
+                "compare_at_price": "",
+                "button": "Buy",
+                "preamble": "SAMSUNG",
+                "brand_image_url": "https://brand-images.jbhifi.com.au/samsung-20241008-02:53:44Z.png",
+                "template_name": "AV Accessories",
+                "facets": {
+                    "TV Category": [],
+                    "TV/AV Accessory Type": [
+                        "Peripherals"
+                    ],
+                    "Wall mount/stand type": [
+                        "Bezel frames"
+                    ],
+                    "Compatible TV size (inches)": [
+                        "32"
+                    ],
+                    "VESA wall mount type": [],
+                    "Power accessory type": [],
+                    "Power outlets": [],
+                    "USB Ports": [],
+                    "USB-C Ports": [],
+                    "Surge protection": [
+                        "False"
+                    ],
+                    "Cable type": [],
+                    "Cable primary use": [],
+                    "Cable length": [],
+                    "AV cable type": [],
+                    "Colour": [],
+                    "Smart features": [],
+                    "Smart home ecosystem": [],
+                    "Lifestyle TV": [
+                        "Yes"
+                    ],
+                    "Manufacturer's warranty": [
+                        "1 Year"
+                    ],
+                    "Warranty notes": [],
+                    "Brand": [
+                        "SAMSUNG"
+                    ],
+                    "Sold by": [
+                        "JB Hi-Fi"
+                    ],
+                    "Category": [
+                        "Wall brackets"
+                    ],
+                    "Primary Category": [
+                        "TVs"
+                    ],
+                    "Price": [
+                        99
+                    ],
+                    "Condition": [
+                        "New"
+                    ],
+                    "Availability": [
+                        "Available Now"
+                    ]
+                },
+                "banner_tags": {},
+                "promo_tags": [],
+                "tieredDetails": [],
+                "showWasPrice": false,
+                "showPerksPrice": false,
+                "isMarketplace": false,
+                "product": {
+                    "model": "VG-SCFC32BWBXY",
+                    "brand": "SAMSUNG",
+                    "productGroupId": 318,
+                    "seasonCode": "M",
+                    "supplierProductDetails": [
+                        {
+                            "supplierNumber": 10054,
+                            "supplierName": "SAMSUNG ELECTRONICS PTY LTD",
+                            "supplierEAN13": "8806094944112",
+                            "supplierStockCode": "VG-SCFC32BWBXY",
+                            "supplierStockDescription": "BEZEL 32\" FRAME TV BROWN"
+                        }
+                    ],
+                    "packagedDimensions": {
+                        "height": 0.094,
+                        "width": 0.816,
+                        "depth": 0.09,
+                        "weight": 0.5
+                    },
+                    "releaseDate": "2024-01-07T13:00:00",
+                    "limitPerOrder": 5,
+                    "freightPrice": 9.99,
+                    "limitedRunPromotionItems": [],
+                    "seller": {
+                        "id": 0,
+                        "name": "JB Hi-Fi"
+                    },
+                    "format": "VISUAL ACCESSORIES",
+                    "showReviews": true,
+                    "averageProductReviewRating": 4,
+                    "numberOfProductReviews": 4,
+                    "productGroupName": "VISUAL ACCESSORIES",
+                    "departmentName": "VISUAL",
+                    "releaseQuarter": "2024-1",
+                    "productFlags": [
+                        {
+                            "Id": 2053972,
+                            "Name": "Review",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2053939,
+                            "Name": "Delivery",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2053938,
+                            "Name": "Click & Collect",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2053940,
+                            "Name": "In-Store",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2227049,
+                            "Name": "Online Warehouse Preference",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2504721,
+                            "Name": "Recalculation",
+                            "Start": "2024-09-18T15:31:55.647+00:00",
+                            "Finish": null
+                        }
+                    ],
+                    "description": "SAMSUNG - VG-SCFC32BWBXY",
+                    "departmentCode": 30,
+                    "releaseDateText": "",
+                    "eligibleForServices": false
+                },
+                "productGroup": {
+                    "id": 318,
+                    "description": "VISUAL ACCESSORIES"
+                },
+                "department": {
+                    "id": 30,
+                    "description": "VISUAL"
+                },
+                "display": {
+                    "artist": "BEZEL 32\" FRAME TV BROWN",
+                    "tracklist": [],
+                    "actors": "",
+                    "directors": "",
+                    "images": [
+                        {
+                            "ImageIndex": 0,
+                            "ImageCategory": "Product",
+                            "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/671833-Product-0-I-638699150410910463.jpg"
+                        },
+                        {
+                            "ImageIndex": 1,
+                            "ImageCategory": "Product",
+                            "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/671833-Product-1-I-638699150405436645.jpg"
+                        },
+                        {
+                            "ImageIndex": 2,
+                            "ImageCategory": "Product",
+                            "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/671833-Product-2-I-638699150408367713.jpg"
+                        },
+                        {
+                            "ImageIndex": 3,
+                            "ImageCategory": "Product",
+                            "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/671833-Product-3-I-638699150409378477.jpg"
+                        }
+                    ],
+                    "keyFeatures": [
+                        "Compatible with LS03C 32\" The Frame TV",
+                        "Customise the appearance of The Frame TV to suit your décor",
+                        "Attaches magnetically, making it quick and simple to install"
+                    ],
+                    "categoryHierarchy": [
+                        "TVs",
+                        "Audio-visual accessories",
+                        "Wall brackets"
+                    ],
+                    "graphicAttributes": [],
+                    "messages": []
+                },
+                "availability": {
+                    "displayProduct": true,
+                    "canBuyOnline": true,
+                    "canPreOrder": false,
+                    "fulfilment": "Physical",
+                    "deliveryFromOnlineWarehouseOnly": false,
+                    "deliveryConstraint": "CountryWide",
+                    "deliveryStatus": "LimitedStock",
+                    "clickNCollectStatus": "AwaitingStock",
+                    "cashNCarryStatus": "AwaitingStock",
+                    "overallStatus": "LimitedStock",
+                    "availabilityStatement": "Limited stock online",
+                    "deliveryOnly": false,
+                    "availableNow": "Available Now",
+                    "productLifecycle": "Replenishable"
+                },
+                "pricing": {
+                    "displayPriceInc": 99,
+                    "displayPriceEx": 90,
+                    "displayPriceTax": 9,
+                    "displayWasPrice": false,
+                    "priceAfterCashback": 99,
+                    "cashbackAmount": 0,
+                    "displayPriceAfterCashback": false,
+                    "promosApplied": [],
+                    "createdDate": "2024-11-08T00:59:50.3408224+00:00",
+                    "timestamp": "0001-01-01T00:00:00+00:00"
+                },
+                "perksPricing": {
+                    "displayPriceInc": "",
+                    "displayPriceEx": "",
+                    "displayPriceTax": "",
+                    "wasPrice": "",
+                    "saveAmount": "",
+                    "displayWasPrice": "",
+                    "priceAfterCashback": "",
+                    "cashbackAmount": "",
+                    "displayPriceAfterCashback": "",
+                    "coreTicketPrice": "",
+                    "wasPriceExpiryDate": "",
+                    "promoNamesApplied": []
+                },
+                "google_tag_manager": {
+                    "brand": "SAMSUNG",
+                    "category": "VISUAL/VISUAL ACCESSORIES/SAMSUNG",
+                    "dimension4": "4",
+                    "dimension5": "4",
+                    "dimension6": "",
+                    "dimension7": "Limited stock online",
+                    "id": "671833",
+                    "name": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TVs (Brown)",
+                    "price": 99,
+                    "showWasPrice": false,
+                    "saveAmount": 0,
+                    "variants": [
+                        {
+                            "name": "Colour",
+                            "value": "Brown"
+                        }
+                    ]
+                },
+                "services": [],
+                "family": {},
+                "onPromotion": false,
+                "weighted_average_rating": 2.42805,
+                "bnplExcluded": false,
+                "mixNMatchBenefits": [],
+                "familyId": "7c32ea40-4562-468e-a87f-78f6d00315e2",
+                "product_id": 7333413912777,
+                "variant_id": 40424707489993,
+                "weight": 0.5,
+                "handle": "samsung-customisable-bezel-frame-for-2023-32-the-frame-tvs-brown",
+                "vendor": "SAMSUNG",
+                "product_published": true,
+                "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671833-Product-0-I-638699150410910463.jpg?v=1734318308",
+                "product_type": "VISUAL",
+                "inventory_management": "shopify",
+                "tags": "LimitedStock",
+                "updated_at": "2024-12-17T15:03:06+11:00",
+                "created_at": "2024-12-16T14:05:08+11:00",
+                "published_at": "2024-12-16T14:05:04+11:00",
+                "shopify_timestamp": "2024-12-17T15:03:06+11:00",
+                "month_combined_bucket": 7,
+                "year_combined_bucket": 7,
+                "objectID": "671833",
+                "_highlightResult": {
+                    "sku": {
+                        "value": "671833",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TVs (Brown)",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "category": {
+                        "value": "Wall brackets",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "facets": {
+                        "Brand": [
+                            {
+                                "value": "SAMSUNG",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    },
+                    "product": {
+                        "model": {
+                            "value": "VG-SCFC32BWBXY",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 7333413945545,
+            "title": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TVs (Teak)",
+            "body_html": "<p>The Frame’s interchangeable frame is the secret to interior harmony. It magnetically attaches to the standard charcoal metal frame, allowing The Frame to beautifully complement any space.<br></p>\r\n<p><strong>Key Features</strong></p>\r\n<p><strong>Quick and easy installation - Get a new look, fast</strong><br>It's effortless to refresh The Frame's appearance, with customisable frames that adhere with magnets. Snap on the frame of your choice to update the view.</p>\r\n<p><strong>Simple and harmonious design</strong><br>Each customisable frame fits The Frame seamlessly, accentuating its sleek, clean lines and crisp angles. Just pick the finish that best suits your style.<br><br><strong>Style The Frame for any room and any space<br></strong>Mix and match with a Customisable Frame of your choice, so The Frame fits perfectly into your personal space.</p>",
+            "vendor": "SAMSUNG",
+            "product_type": "VISUAL",
+            "created_at": "2024-12-16T14:11:07+11:00",
+            "handle": "samsung-customisable-bezel-frame-for-2023-32-the-frame-tvs-teak",
+            "updated_at": "2025-01-10T11:45:14+11:00",
+            "published_at": "2024-12-16T14:11:04+11:00",
+            "template_suffix": null,
+            "published_scope": "web",
+            "tags": "AwaitingStock",
+            "variants": [
+                {
+                    "id": 40424707522761,
+                    "product_id": 7333413945545,
+                    "title": "Default Title",
+                    "price": "99.00",
+                    "sku": "671831",
+                    "position": 1,
+                    "compare_at_price": "",
+                    "fulfillment_service": "manual",
+                    "inventory_management": "shopify",
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "created_at": "2024-12-16T14:11:07+11:00",
+                    "updated_at": "2025-01-10T11:45:14+11:00",
+                    "taxable": true,
+                    "barcode": "8806094963380",
+                    "grams": 500,
+                    "image_id": null,
+                    "weight": 0.5,
+                    "weight_unit": "kg",
+                    "requires_shipping": true,
+                    "quantity_rule": {
+                        "min": 1,
+                        "max": null,
+                        "increment": 1
+                    },
+                    "price_currency": "AUD",
+                    "compare_at_price_currency": "",
+                    "quantity_price_breaks": []
+                }
+            ],
+            "options": [
+                {
+                    "id": 9785025396937,
+                    "product_id": 7333413945545,
+                    "name": "Title",
+                    "position": 1,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "images": [
+                {
+                    "id": 30814757552329,
+                    "product_id": 7333413945545,
+                    "position": 1,
+                    "created_at": "2024-12-16T14:11:07+11:00",
+                    "updated_at": "2024-12-16T14:11:07+11:00",
+                    "alt": null,
+                    "width": 450,
+                    "height": 450,
+                    "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671831-Product-0-I-638699154003753286.jpg?v=1734318667",
+                    "variant_ids": []
+                },
+                {
+                    "id": 30814757585097,
+                    "product_id": 7333413945545,
+                    "position": 2,
+                    "created_at": "2024-12-16T14:11:07+11:00",
+                    "updated_at": "2024-12-16T14:11:07+11:00",
+                    "alt": null,
+                    "width": 647,
+                    "height": 647,
+                    "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671831-Product-1-I-638699154004127440.jpg?v=1734318667",
+                    "variant_ids": []
+                },
+                {
+                    "id": 30814757617865,
+                    "product_id": 7333413945545,
+                    "position": 3,
+                    "created_at": "2024-12-16T14:11:07+11:00",
+                    "updated_at": "2024-12-16T14:11:07+11:00",
+                    "alt": null,
+                    "width": 1069,
+                    "height": 1069,
+                    "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671831-Product-2-I-638699154005637578.jpg?v=1734318667",
+                    "variant_ids": []
+                },
+                {
+                    "id": 30814757650633,
+                    "product_id": 7333413945545,
+                    "position": 4,
+                    "created_at": "2024-12-16T14:11:07+11:00",
+                    "updated_at": "2024-12-16T14:11:07+11:00",
+                    "alt": null,
+                    "width": 1119,
+                    "height": 1119,
+                    "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671831-Product-3-I-638699154005537538.jpg?v=1734318667",
+                    "variant_ids": []
+                }
+            ],
+            "image": {
+                "id": 30814757552329,
+                "product_id": 7333413945545,
+                "position": 1,
+                "created_at": "2024-12-16T14:11:07+11:00",
+                "updated_at": "2024-12-16T14:11:07+11:00",
+                "alt": null,
+                "width": 450,
+                "height": 450,
+                "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671831-Product-0-I-638699154003753286.jpg?v=1734318667",
+                "variant_ids": []
+            },
+            "additional": {
+                "schemaVersion": 2,
+                "sku": "671831",
+                "online_product_timestamp": "2025-01-03T08:45:30.5940782+00:00",
+                "title": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TVs (Teak)",
+                "primary_title": "Samsung Customisable Bezel Frame",
+                "secondary_title": "2023 32\" The Frame TVs (Teak)",
+                "category_id": 1984,
+                "category": "Wall brackets",
+                "category_hierarchy": [
+                    "TVs",
+                    "Audio-visual accessories",
+                    "Wall brackets"
+                ],
+                "category_levels": {
+                    "level0": "TVs",
+                    "level1": "Audio-visual accessories",
+                    "level2": "Wall brackets"
+                },
+                "release_date": 1704632400,
+                "barcode": "8806094963380",
+                "taxable": true,
+                "price": 99,
+                "all_calculated_product_tags": [],
+                "compare_at_price": "",
+                "button": "Buy",
+                "preamble": "SAMSUNG",
+                "brand_image_url": "https://brand-images.jbhifi.com.au/samsung-20241008-02:53:44Z.png",
+                "template_name": "AV Accessories",
+                "facets": {
+                    "TV Category": [],
+                    "TV/AV Accessory Type": [
+                        "Peripherals"
+                    ],
+                    "Wall mount/stand type": [
+                        "Bezel frames"
+                    ],
+                    "Compatible TV size (inches)": [
+                        "32"
+                    ],
+                    "VESA wall mount type": [],
+                    "Power accessory type": [],
+                    "Power outlets": [],
+                    "USB Ports": [],
+                    "USB-C Ports": [],
+                    "Surge protection": [
+                        "False"
+                    ],
+                    "Cable type": [],
+                    "Cable primary use": [],
+                    "Cable length": [],
+                    "AV cable type": [],
+                    "Colour": [],
+                    "Smart features": [],
+                    "Smart home ecosystem": [],
+                    "Lifestyle TV": [
+                        "Yes"
+                    ],
+                    "Manufacturer's warranty": [
+                        "1 Year"
+                    ],
+                    "Warranty notes": [],
+                    "Brand": [
+                        "SAMSUNG"
+                    ],
+                    "Sold by": [
+                        "JB Hi-Fi"
+                    ],
+                    "Category": [
+                        "Wall brackets"
+                    ],
+                    "Primary Category": [
+                        "TVs"
+                    ],
+                    "Price": [
+                        99
+                    ],
+                    "Condition": [
+                        "New"
+                    ],
+                    "Availability": [
+                        "Awaiting Stock"
+                    ]
+                },
+                "banner_tags": {},
+                "promo_tags": [],
+                "tieredDetails": [],
+                "showWasPrice": false,
+                "showPerksPrice": false,
+                "isMarketplace": false,
+                "product": {
+                    "model": "VG-SCFC32TKBXY",
+                    "brand": "SAMSUNG",
+                    "productGroupId": 318,
+                    "seasonCode": "M",
+                    "supplierProductDetails": [
+                        {
+                            "supplierNumber": 10054,
+                            "supplierName": "SAMSUNG ELECTRONICS PTY LTD",
+                            "supplierEAN13": "8806094963380",
+                            "supplierStockCode": "VG-SCFC32TKBXY",
+                            "supplierStockDescription": "BEZEL 32\" FRAME TV TEAK"
+                        }
+                    ],
+                    "packagedDimensions": {
+                        "height": 0.094,
+                        "width": 0.816,
+                        "depth": 0.09,
+                        "weight": 0.5
+                    },
+                    "releaseDate": "2024-01-07T13:00:00",
+                    "limitPerOrder": 5,
+                    "freightPrice": 9.99,
+                    "limitedRunPromotionItems": [],
+                    "seller": {
+                        "id": 0,
+                        "name": "JB Hi-Fi"
+                    },
+                    "format": "VISUAL ACCESSORIES",
+                    "showReviews": true,
+                    "averageProductReviewRating": 4,
+                    "numberOfProductReviews": 4,
+                    "productGroupName": "VISUAL ACCESSORIES",
+                    "departmentName": "VISUAL",
+                    "releaseQuarter": "2024-1",
+                    "productFlags": [
+                        {
+                            "Id": 2053970,
+                            "Name": "Review",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2053883,
+                            "Name": "Delivery",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2053882,
+                            "Name": "Click & Collect",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2053884,
+                            "Name": "In-Store",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2227047,
+                            "Name": "Online Warehouse Preference",
+                            "Start": null,
+                            "Finish": null
+                        },
+                        {
+                            "Id": 2504719,
+                            "Name": "Recalculation",
+                            "Start": "2024-09-18T15:31:55.647+00:00",
+                            "Finish": null
+                        }
+                    ],
+                    "description": "SAMSUNG - VG-SCFC32TKBXY",
+                    "departmentCode": 30,
+                    "releaseDateText": "",
+                    "eligibleForServices": false
+                },
+                "productGroup": {
+                    "id": 318,
+                    "description": "VISUAL ACCESSORIES"
+                },
+                "department": {
+                    "id": 30,
+                    "description": "VISUAL"
+                },
+                "display": {
+                    "artist": "BEZEL 32\" FRAME TV TEAK",
+                    "tracklist": [],
+                    "actors": "",
+                    "directors": "",
+                    "images": [
+                        {
+                            "ImageIndex": 0,
+                            "ImageCategory": "Product",
+                            "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/671831-Product-0-I-638699154003753286.jpg"
+                        },
+                        {
+                            "ImageIndex": 1,
+                            "ImageCategory": "Product",
+                            "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/671831-Product-1-I-638699154004127440.jpg"
+                        },
+                        {
+                            "ImageIndex": 2,
+                            "ImageCategory": "Product",
+                            "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/671831-Product-2-I-638699154005637578.jpg"
+                        },
+                        {
+                            "ImageIndex": 3,
+                            "ImageCategory": "Product",
+                            "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/671831-Product-3-I-638699154005537538.jpg"
+                        }
+                    ],
+                    "keyFeatures": [
+                        "Compatible with LS03C 32\" The Frame TV",
+                        "Customise the appearance of The Frame TV to suit your décor",
+                        "Attaches magnetically, making it quick and simple to install"
+                    ],
+                    "categoryHierarchy": [
+                        "TVs",
+                        "Audio-visual accessories",
+                        "Wall brackets"
+                    ],
+                    "graphicAttributes": [],
+                    "messages": []
+                },
+                "availability": {
+                    "displayProduct": true,
+                    "canBuyOnline": true,
+                    "canPreOrder": false,
+                    "fulfilment": "Physical",
+                    "deliveryFromOnlineWarehouseOnly": false,
+                    "deliveryConstraint": "CountryWide",
+                    "deliveryStatus": "AwaitingStock",
+                    "clickNCollectStatus": "AwaitingStock",
+                    "cashNCarryStatus": "AwaitingStock",
+                    "overallStatus": "AwaitingStock",
+                    "availabilityStatement": "Awaiting stock",
+                    "deliveryOnly": false,
+                    "availableNow": "Awaiting Stock",
+                    "productLifecycle": "Replenishable"
+                },
+                "pricing": {
+                    "displayPriceInc": 99,
+                    "displayPriceEx": 90,
+                    "displayPriceTax": 9,
+                    "displayWasPrice": false,
+                    "priceAfterCashback": 99,
+                    "cashbackAmount": 0,
+                    "displayPriceAfterCashback": false,
+                    "promosApplied": [],
+                    "createdDate": "2024-11-08T00:59:50.3408224+00:00",
+                    "timestamp": "0001-01-01T00:00:00+00:00"
+                },
+                "perksPricing": {
+                    "displayPriceInc": "",
+                    "displayPriceEx": "",
+                    "displayPriceTax": "",
+                    "wasPrice": "",
+                    "saveAmount": "",
+                    "displayWasPrice": "",
+                    "priceAfterCashback": "",
+                    "cashbackAmount": "",
+                    "displayPriceAfterCashback": "",
+                    "coreTicketPrice": "",
+                    "wasPriceExpiryDate": "",
+                    "promoNamesApplied": []
+                },
+                "google_tag_manager": {
+                    "brand": "SAMSUNG",
+                    "category": "VISUAL/VISUAL ACCESSORIES/SAMSUNG",
+                    "dimension4": "4",
+                    "dimension5": "4",
+                    "dimension6": "",
+                    "dimension7": "Awaiting stock",
+                    "id": "671831",
+                    "name": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TVs (Teak)",
+                    "price": 99,
+                    "showWasPrice": false,
+                    "saveAmount": 0,
+                    "variants": [
+                        {
+                            "name": "Colour",
+                            "value": "Teak"
+                        }
+                    ]
+                },
+                "services": [],
+                "family": {},
+                "onPromotion": false,
+                "weighted_average_rating": 2.42805,
+                "bnplExcluded": false,
+                "mixNMatchBenefits": [],
+                "familyId": "7c32ea40-4562-468e-a87f-78f6d00315e2",
+                "product_id": 7333413945545,
+                "variant_id": 40424707522761,
+                "weight": 0.5,
+                "handle": "samsung-customisable-bezel-frame-for-2023-32-the-frame-tvs-teak",
+                "vendor": "SAMSUNG",
+                "product_published": true,
+                "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/671831-Product-0-I-638699154003753286.jpg?v=1734318667",
+                "product_type": "VISUAL",
+                "inventory_management": "shopify",
+                "tags": "AwaitingStock",
+                "updated_at": "2025-01-03T19:45:32+11:00",
+                "created_at": "2024-12-16T14:11:07+11:00",
+                "published_at": "2024-12-16T14:11:04+11:00",
+                "shopify_timestamp": "2025-01-03T19:45:32+11:00",
+                "month_combined_bucket": 9,
+                "year_combined_bucket": 9,
+                "objectID": "671831",
+                "_highlightResult": {
+                    "sku": {
+                        "value": "671831",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "title": {
+                        "value": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TVs (Teak)",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "category": {
+                        "value": "Wall brackets",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    },
+                    "facets": {
+                        "Brand": [
+                            {
+                                "value": "SAMSUNG",
+                                "matchLevel": "none",
+                                "matchedWords": []
+                            }
+                        ]
+                    },
+                    "product": {
+                        "model": {
+                            "value": "VG-SCFC32TKBXY",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    }
+                }
+            }
+        },
+        {
             "id": 7333414011081,
             "title": "Samsung Customisable Bezel Frame for 2023 32\" The Frame TV (White)",
             "body_html": "<p>The Frame’s interchangeable frame is the secret to interior harmony. It magnetically attaches to the standard charcoal metal frame, allowing The Frame to beautifully complement any space.<br></p>\r\n<p><strong>Key Features</strong></p>\r\n<p><strong>Quick and easy installation - Get a new look, fast</strong><br>It's effortless to refresh The Frame's appearance, with customisable frames that adhere with magnets. Snap on the frame of your choice to update the view.</p>\r\n<p><strong>Simple and harmonious design</strong><br>Each customisable frame fits The Frame seamlessly, accentuating its sleek, clean lines and crisp angles. Just pick the finish that best suits your style.<br><br><strong>Style The Frame for any room and any space<br></strong>Mix and match with a Customisable Frame of your choice, so The Frame fits perfectly into your personal space.</p>",
