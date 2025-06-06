@@ -1,0 +1,31 @@
+[
+  {
+    "parent_id": "1129607",
+    "title": "Storm Tropical Surge Silver Purple Bowling Ball",
+    "description": "The Storm Tropical bowling ball legacy lives on through the Surge core",
+    "price": "99.95",
+    "link": "https://www.bowlersmart.com/product/storm-tropical-surge-silver-purple-bowling-ball/",
+    "brand": "storm",
+    "image_link": "https://www.bowlersmart.com/wp-content/uploads/2019/03/products-surgecore2_00000_1_1.png",
+    "variant_items": [
+      {
+        "variant_id": "1129614",
+        "ball_weight": "16 lbs",
+        "sku": "BT1VVU16",
+        "variant_price": "99.95"
+      },
+      {
+        "  variant_id": "1129613",
+        "ball_weight": "15 lbs",
+        "sku": "BT1VVU15",
+        "variant_price": "99.95"
+      },
+      {
+        "variant_id": "1129612",
+        "ball_weight": "14 lbs",
+        "sku": "BT1VVU14",
+        "variant_price": "99.95"
+      }
+    ]
+  }
+]
