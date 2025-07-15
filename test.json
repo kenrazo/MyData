@@ -1,0 +1,194 @@
+{
+    "rss": {
+        "channel": {
+            "metadata": {
+                "ref_application_id": "359775291691249",
+                "ref_asset_id": "laneway.melbourneairport.com.au-1"
+            },
+            "title": "Data feed Title",
+            "link": "https://laneway.melbourneairport.com.au/",
+            "description": "Data feed description.",
+            "item": [
+                {
+                    "id": {
+                        "__prefix": "g",
+                        "__cdata": " LOTT_2728776946 "
+                    },
+                    "title": {
+                        "__cdata": " Shirl the Pearl Cumquat Gin 700ml "
+                    },
+                    "link": {
+                        "__cdata": " https://laneway.melbourneairport.com.au/shirl-the-pearl-cumquat-gin-700ml.html "
+                    },
+                    "price": {
+                        "__prefix": "g",
+                        "__text": "66.99"
+                    },
+                    "description": {
+                        "__cdata": " "
+                    },
+                    "product_type": {
+                        "__prefix": "g",
+                        "__cdata": " Liquor > Gin > Australian Gin "
+                    },
+                    "google_product_category": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    },
+                    "image_link": {
+                        "__prefix": "g",
+                        "__cdata": " https://laneway.melbourneairport.com.au/media/catalog/product/4/a/4a13b710-8171-4006-ba3d-ab9df35e2c79.jpg "
+                    },
+                    "additional_image_link": {
+                        "__prefix": "g",
+                        "__cdata": " https://laneway.melbourneairport.com.au/media/catalog/product/4/a/4a13b710-8171-4006-ba3d-ab9df35e2c79.jpg "
+                    },
+                    "condition": {
+                        "__prefix": "g",
+                        "__text": "new"
+                    },
+                    "availability": {
+                        "__prefix": "g",
+                        "__text": "in stock"
+                    },
+                    "shipping_weight": {
+                        "__prefix": "g",
+                        "__text": "0.000000 kg"
+                    },
+                    "brand": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    },
+                    "mpn": {
+                        "__prefix": "g",
+                        "__cdata": " LOTT_2728776946 "
+                    },
+                    "gtin": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    }
+                },
+                {
+                    "id": {
+                        "__prefix": "g",
+                        "__cdata": " LOTT_2728776939 "
+                    },
+                    "title": {
+                        "__cdata": " Mac. Liqueur 700ml "
+                    },
+                    "link": {
+                        "__cdata": " https://laneway.melbourneairport.com.au/mac-liqueur-700ml.html "
+                    },
+                    "price": {
+                        "__prefix": "g",
+                        "__text": "54.99"
+                    },
+                    "description": {
+                        "__cdata": " "
+                    },
+                    "product_type": {
+                        "__prefix": "g",
+                        "__cdata": " Liquor > Liqueurs "
+                    },
+                    "google_product_category": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    },
+                    "image_link": {
+                        "__prefix": "g",
+                        "__cdata": " https://laneway.melbourneairport.com.au/media/catalog/product/3/0/309aa57a-00bc-498b-af90-e4b901dd92ac.jpg "
+                    },
+                    "additional_image_link": {
+                        "__prefix": "g",
+                        "__cdata": " https://laneway.melbourneairport.com.au/media/catalog/product/3/0/309aa57a-00bc-498b-af90-e4b901dd92ac.jpg "
+                    },
+                    "condition": {
+                        "__prefix": "g",
+                        "__text": "new"
+                    },
+                    "availability": {
+                        "__prefix": "g",
+                        "__text": "in stock"
+                    },
+                    "shipping_weight": {
+                        "__prefix": "g",
+                        "__text": "0.000000 kg"
+                    },
+                    "brand": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    },
+                    "mpn": {
+                        "__prefix": "g",
+                        "__cdata": " LOTT_2728776939 "
+                    },
+                    "gtin": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    }
+                },
+                {
+                    "id": {
+                        "__prefix": "g",
+                        "__cdata": " LOTT_2728772887 "
+                    },
+                    "title": {
+                        "__cdata": " 23rd Street Red Citrus Gin 700ml "
+                    },
+                    "link": {
+                        "__cdata": " https://laneway.melbourneairport.com.au/23rd-street-red-citrus-gin-700ml.html "
+                    },
+                    "price": {
+                        "__prefix": "g",
+                        "__text": "62.99"
+                    },
+                    "description": {
+                        "__cdata": " "
+                    },
+                    "product_type": {
+                        "__prefix": "g",
+                        "__cdata": " Liquor > Gin > Australian Gin "
+                    },
+                    "google_product_category": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    },
+                    "image_link": {
+                        "__prefix": "g",
+                        "__cdata": " https://laneway.melbourneairport.com.au/media/catalog/product/f/d/fda8fa04-faba-42b6-b52e-9795e47d4d95.jpg "
+                    },
+                    "additional_image_link": {
+                        "__prefix": "g",
+                        "__cdata": " https://laneway.melbourneairport.com.au/media/catalog/product/f/d/fda8fa04-faba-42b6-b52e-9795e47d4d95.jpg "
+                    },
+                    "condition": {
+                        "__prefix": "g",
+                        "__text": "new"
+                    },
+                    "availability": {
+                        "__prefix": "g",
+                        "__text": "in stock"
+                    },
+                    "shipping_weight": {
+                        "__prefix": "g",
+                        "__text": "0.000000 kg"
+                    },
+                    "brand": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    },
+                    "mpn": {
+                        "__prefix": "g",
+                        "__cdata": " LOTT_2728772887 "
+                    },
+                    "gtin": {
+                        "__prefix": "g",
+                        "__cdata": " "
+                    }
+                }
+            ]
+        },
+        "_xmlns:g": "http://base.google.com/ns/1.0",
+        "_version": "2.0"
+    }
+}
