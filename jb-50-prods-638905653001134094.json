@@ -1,4 +1,410 @@
 [
+        {
+        "id": 7332728570057,
+        "title": "Energizer 1 Outlet Power Adapter with USB",
+        "body_html": "\u003Cp\u003E\u003Cstrong\u003EKey Features\u003C/strong\u003E\u003C/p\u003E\r\n\u003Cp\u003ESingle Outlet wall Plug\u003C/p\u003E\r\n\u003Cp\u003E2 x USB A + 2x USB C total 3.4Amp\u003C/p\u003E\r\n\u003Cp\u003EPC material\u003Cbr\u003E\u003C/p\u003E",
+        "vendor": "ENERGIZER",
+        "product_type": "ACCESSORIES",
+        "created_at": "2024-07-16T07:18:06+10:00",
+        "handle": "energizer-1-outlet-power-adapter-with-usb",
+        "updated_at": "2025-05-26T08:09:54+10:00",
+        "published_at": "2024-07-16T07:21:04+10:00",
+        "template_suffix": null,
+        "published_scope": "web",
+        "variants": [
+            {
+                "id": 40421829574857,
+                "product_id": 7332728570057,
+                "title": "Default Title",
+                "price": "36.95",
+                "sku": "750312",
+                "position": 1,
+                "fulfillment_service": "manual",
+                "inventory_management": "shopify",
+                "option1": "Default Title",
+                "option2": null,
+                "option3": null,
+                "created_at": "2024-07-16T07:18:06+10:00",
+                "updated_at": "2025-05-26T08:09:54+10:00",
+                "taxable": true,
+                "barcode": "9332066067071",
+                "grams": 110,
+                "image_id": null,
+                "weight": 0.11,
+                "weight_unit": "kg",
+                "requires_shipping": true,
+                "quantity_rule": {
+                    "min": 1,
+                    "max": null,
+                    "increment": 1
+                },
+                "price_currency": "AUD",
+                "compare_at_price_currency": "",
+                "quantity_price_breaks": []
+            }
+        ],
+        "options": [
+            {
+                "id": 9784341233865,
+                "product_id": 7332728570057,
+                "name": "Title",
+                "position": 1,
+                "values": [
+                    "Default Title"
+                ]
+            }
+        ],
+        "images": [
+            {
+                "id": 30798463008969,
+                "product_id": 7332728570057,
+                "position": 1,
+                "created_at": "2024-07-16T07:18:06+10:00",
+                "updated_at": "2024-07-16T07:18:06+10:00",
+                "alt": null,
+                "width": 1648,
+                "height": 1648,
+                "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/750312-Product-0-I-638566197002847663.jpg?v=1721078286",
+                "variant_ids": []
+            },
+            {
+                "id": 30798463041737,
+                "product_id": 7332728570057,
+                "position": 2,
+                "created_at": "2024-07-16T07:18:06+10:00",
+                "updated_at": "2024-07-16T07:18:06+10:00",
+                "alt": null,
+                "width": 2048,
+                "height": 2048,
+                "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/750312-Product-1-I-638566197002871561.jpg?v=1721078286",
+                "variant_ids": []
+            }
+        ],
+        "image": {
+            "id": 30798463008969,
+            "product_id": 7332728570057,
+            "position": 1,
+            "created_at": "2024-07-16T07:18:06+10:00",
+            "updated_at": "2024-07-16T07:18:06+10:00",
+            "alt": null,
+            "width": 1648,
+            "height": 1648,
+            "src": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/750312-Product-0-I-638566197002847663.jpg?v=1721078286",
+            "variant_ids": []
+        },
+        "additional": {
+            "schemaVersion": 2,
+            "sku": "750312",
+            "online_product_timestamp": "2025-05-23T04:18:24.493+00:00",
+            "title": "Energizer 1 Outlet Power Adapter with USB",
+            "primary_title": "Energizer 1 Outlet Power Adapter",
+            "secondary_title": "USB",
+            "category_id": 1983,
+            "category": "Surge protection & power",
+            "category_hierarchy": [
+                "TVs",
+                "Audio-visual accessories",
+                "Surge protection & power"
+            ],
+            "release_date": 1717509600,
+            "barcode": "9332066067071",
+            "taxable": true,
+            "price": 36.95,
+            "weight": 0.11,
+            "button": "Buy",
+            "preamble": "ENERGIZER",
+            "brand_image_url": "https://brand-images.jbhifi.com.au/energizer.png",
+            "template_name": "AV Accessories",
+            "facets": {
+                "TV Category": [
+                    "Surge protection & power"
+                ],
+                "TV/AV Accessory Type": [
+                    "Surge Protection & Power"
+                ],
+                "Wall mount/stand type": [],
+                "Compatible TV size (inches)": [],
+                "VESA wall mount type": [],
+                "Power accessory type": [
+                    "Power adaptor"
+                ],
+                "Power outlets": [
+                    1
+                ],
+                "USB Ports": [
+                    4
+                ],
+                "USB-C Ports": [
+                    2
+                ],
+                "Surge protection": [
+                    "False"
+                ],
+                "Cable type": [],
+                "Cable primary use": [],
+                "Cable length": [],
+                "AV cable type": [],
+                "Colour": [
+                    "White"
+                ],
+                "Smart features": [],
+                "Smart home ecosystem": [],
+                "Lifestyle TV": [],
+                "Contains button battery": [],
+                "Manufacturer's warranty": [
+                    "1 Year"
+                ],
+                "Warranty notes": [],
+                "Brand": [
+                    "ENERGIZER"
+                ],
+                "Sold by": [
+                    "JB Hi-Fi"
+                ],
+                "Category": [
+                    "Surge protection & power"
+                ],
+                "Primary Category": [
+                    "TVs"
+                ],
+                "Price": [
+                    36.95
+                ],
+                "Condition": [
+                    "New"
+                ],
+                "Availability": [
+                    "Available Now"
+                ]
+            },
+            "tieredDetails": [],
+            "showPerksPrice": false,
+            "isMarketplace": false,
+            "product": {
+                "model": "ET-SOS175U",
+                "brand": "ENERGIZER",
+                "productGroupId": 621,
+                "seasonCode": "M",
+                "supplierProductDetails": [
+                    {
+                        "supplierNumber": 10872,
+                        "supplierName": "DYNAMIC SUPPLIES TECHNOLOGY",
+                        "supplierEAN13": "9332066067071",
+                        "supplierStockCode": "ET-SOS175U",
+                        "supplierStockDescription": "1-OUTLET w USB"
+                    },
+                    {
+                        "supplierNumber": 10646,
+                        "supplierName": "TEMPO AUSTRALIA",
+                        "supplierEAN13": "9332066067071",
+                        "supplierStockCode": "ET-SOS175U",
+                        "supplierStockDescription": "1-OUTLET w USB"
+                    }
+                ],
+                "packagedDimensions": {
+                    "height": 0.12,
+                    "width": 0.057,
+                    "depth": 0.02,
+                    "weight": 0.11
+                },
+                "releaseDate": "2024-06-04T14:00:00",
+                "limitPerOrder": 5,
+                "freightPrice": 5.99,
+                "limitedRunPromotionItems": [],
+                "seller": {
+                    "id": 0,
+                    "name": "JB Hi-Fi"
+                },
+                "format": "AV SURGE PROTECTION",
+                "showReviews": true,
+                "averageProductReviewRating": 5,
+                "numberOfProductReviews": 1,
+                "productGroupName": "AV SURGE PROTECTION",
+                "departmentName": "ACCESSORIES",
+                "releaseQuarter": "2024-2",
+                "productFlags": [
+                    {
+                        "Id": 2221727,
+                        "Name": "Click & Collect",
+                        "Start": null,
+                        "Finish": null
+                    },
+                    {
+                        "Id": 2221728,
+                        "Name": "Delivery",
+                        "Start": null,
+                        "Finish": null
+                    },
+                    {
+                        "Id": 2221729,
+                        "Name": "In-Store",
+                        "Start": null,
+                        "Finish": null
+                    },
+                    {
+                        "Id": 2221730,
+                        "Name": "Review",
+                        "Start": null,
+                        "Finish": null
+                    },
+                    {
+                        "Id": 2523711,
+                        "Name": "Recalculation",
+                        "Start": "2025-05-22T04:18:24.493+00:00",
+                        "Finish": null
+                    }
+                ],
+                "description": "ENERGIZER - 1-OUTLET POWER w USB",
+                "departmentCode": 62,
+                "releaseDateText": "",
+                "eligibleForServices": false,
+                "freeBonusSkus": [],
+                "id": "750312"
+            },
+            "productGroup": {
+                "id": 621,
+                "description": "AV SURGE PROTECTION"
+            },
+            "department": {
+                "id": 62,
+                "description": "ACCESSORIES"
+            },
+            "display": {
+                "artist": "1-OUTLET w USB",
+                "tracklist": [],
+                "actors": "",
+                "directors": "",
+                "images": [
+                    {
+                        "ImageIndex": 0,
+                        "ImageCategory": "Product",
+                        "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/750312-Product-0-I-638566197002847663.jpg"
+                    },
+                    {
+                        "ImageIndex": 1,
+                        "ImageCategory": "Product",
+                        "ImageUrl": "https://s3.us-east-1.amazonaws.com/product-image-bucket-prod-us/750312-Product-1-I-638566197002871561.jpg"
+                    }
+                ],
+                "keyFeatures": [
+                    "Use: Single outlet wall plug",
+                    "Compatibility: 2x USB A + 2x USB C total 3.4Amp",
+                    "Design: PC material"
+                ],
+                "categoryHierarchy": [
+                    "TVs",
+                    "Audio-visual accessories",
+                    "Surge protection & power"
+                ],
+                "graphicAttributes": [],
+                "messages": []
+            },
+            "availability": {
+                "displayProduct": true,
+                "canBuyOnline": true,
+                "canPreOrder": false,
+                "fulfilment": "Physical",
+                "deliveryFromOnlineWarehouseOnly": false,
+                "deliveryConstraint": "CountryWide",
+                "deliveryStatus": "InStock",
+                "clickNCollectStatus": "InStock",
+                "cashNCarryStatus": "InStock",
+                "overallStatus": "InStock",
+                "availabilityStatement": "In stock",
+                "deliveryOnly": false,
+                "availableNow": "Available Now",
+                "productLifecycle": "Replenishable"
+            },
+            "pricing": {
+                "displayPriceInc": 36.95,
+                "displayPriceEx": 33.59,
+                "displayPriceTax": 3.36,
+                "createdDate": "2024-11-06T01:59:56.6289324+00:00",
+                "timestamp": "0001-01-01T00:00:00+00:00"
+            },
+            "perksPricing": null,
+            "google_tag_manager": {
+                "brand": "ENERGIZER",
+                "category": "ACCESSORIES/AV SURGE PROTECTION/ENERGIZER",
+                "dimension4": "5",
+                "dimension5": "1",
+                "dimension6": "",
+                "dimension7": "In stock",
+                "id": "750312",
+                "name": "Energizer 1 Outlet Power Adapter with USB",
+                "price": 36.95,
+                "variants": []
+            },
+            "services": [],
+            "family": {},
+            "weighted_average_rating": 2.19581,
+            "bnplExcluded": false,
+            "mixNMatchBenefits": [],
+            "product_published": true,
+            "product_type": "ACCESSORIES",
+            "vendor": "ENERGIZER",
+            "variant_id": 40421829574857,
+            "created_at": "2024-07-15T21:18:06+00:00",
+            "product_id": 7332728570057,
+            "inventory_management": "shopify",
+            "inventory_quantity": "",
+            "inventory_management_shopify": "",
+            "updated_at": "2025-05-23T04:19:54+00:00",
+            "handle": "energizer-1-outlet-power-adapter-with-usb",
+            "product_image": "https://cdn.shopify.com/s/files/1/0024/9803/5810/files/750312-Product-0-I-638566197002847663.jpg?v=1721078286",
+            "published_at": "2024-07-15T21:21:04+00:00",
+            "shopify_timestamp": "2025-05-23T04:19:54+00:00",
+            "category_levels": {
+                "level0": "TVs",
+                "level1": "Audio-visual accessories",
+                "level2": "Surge protection & power"
+            },
+            "month_combined_bucket": 4,
+            "year_combined_bucket": 12,
+            "familyId": "",
+            "deliveryTag": "",
+            "month_combined_bucket_stores": 4,
+            "month_combined_bucket_TOTAL": 6.4,
+            "year_combined_bucket_stores": 7,
+            "year_combined_bucket_TOTAL": 14.4,
+            "_collections": [],
+            "collectionHandles": [],
+            "objectID": "750312",
+            "_highlightResult": {
+                "sku": {
+                    "value": "750312",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Energizer 1 Outlet Power Adapter with USB",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "category": {
+                    "value": "Surge protection & power",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "facets": {
+                    "Brand": [
+                        {
+                            "value": "ENERGIZER",
+                            "matchLevel": "none",
+                            "matchedWords": []
+                        }
+                    ]
+                },
+                "product": {
+                    "model": {
+                        "value": "ET-SOS175U",
+                        "matchLevel": "none",
+                        "matchedWords": []
+                    }
+                }
+            }
+        }
+    },
     {
         "id": 7333966643401,
         "title": "LG 85\" QNED93A EVO Mini-LED AI 4K UHD Smart TV [2025]",
@@ -26179,7 +26585,7 @@
                 "id": 40421185945801,
                 "product_id": 7332141334729,
                 "title": "Default Title",
-                "price": "145.00",
+                "price": "9999",
                 "sku": "671838",
                 "position": 1,
                 "fulfillment_service": "manual",
@@ -26622,3 +27028,4 @@
     }
 
 ]
+
