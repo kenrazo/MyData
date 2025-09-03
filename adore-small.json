@@ -1,6 +1,6 @@
 [
   {
-    "Unique ID": 1195964,
+    "Unique ID": 1195964-123,
     "Product_Name": "Trudon Cire Candle 3kg",
     "Product_URL": "https://www.adorebeauty.com.au/p/trudon/trudon-cire-candle-3kg.html",
     "Product_In_Stock": "Available",
@@ -25,7 +25,7 @@
     "product type": null
   },
   {
-    "Unique ID": 1076868,
+    "Unique ID": 1076868-123,
     "Product_Name": "Trudon Abd El Kader Scented Cameo Wax Melts",
     "Product_URL": "https://www.adorebeauty.com.au/p/trudon/cire-trudon-abd-el-kader-scented-cameos.html",
     "Product_In_Stock": "Available",
@@ -50,7 +50,7 @@
     "product type": null
   },
   {
-    "Unique ID": 1076861,
+    "Unique ID": 1076861-123,
     "Product_Name": "Trudon Cyrnos Scented Cameo Wax Melts",
     "Product_URL": "https://www.adorebeauty.com.au/p/trudon/cire-trudon-cyrnos-scented-cameos.html",
     "Product_In_Stock": "Available",
@@ -75,6 +75,7 @@
     "product type": null
   }
 ]
+
 
 
 
