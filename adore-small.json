@@ -73,7 +73,8 @@
     "sub_category": "[\"/default/gifts/candle-gift-ideas\", \"/default/cire-trudon\", \"/default/specials\", \"/default/fragrance\", \"/default/fragrance/home-fragrance\", \"default/fragrance/home-fragrance/gift-sets\", \"default/cire-trudon/wax-melts\"]",
     "eye_concern": null,
     "product type": null
-  }, {
+  }, 
+  {
     "Unique ID": "112244-123",
     "Product_Name": "asdasd",
     "Product_URL": "https://www.adorebeauty.com.au/p/asdasd",
@@ -97,8 +98,9 @@
     "sub_category": "[\"/default/gifts\", \"/default/gifts/candle-gift-ideas\", \"/default/gifts/by-budget\", \"default/gifts/by-budget/over-100\", \"/default/cire-trudon\", \"default/cire-trudon/candles\", \"/default/specials\", \"/default/fragrance\", \"/default/fragrance/home-fragrance\", \"default/fragrance/home-fragrance/candles\", \"/default/specials/offers\"]",
     "eye_concern": null,
     "product type": null
-  },
+  }
 ]
+
 
 
 
