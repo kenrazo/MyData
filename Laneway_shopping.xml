@@ -8,23 +8,6 @@
 	<title>Data feed Title</title>
     <link>https://laneway.melbourneairport.com.au/</link>
     <description>Data feed description.</description>
-	 <item>
-      <g:id><![CDATA[LOTT_2728776946]]></g:id>
-      <title><![CDATA[Tequila]]></title>
-      <link><![CDATA[https://laneway.melbourneairport.com.au/1800-coconut-tequila-700ml.html]]></link>
-      <g:price>60.99</g:price>
-      <description><![CDATA[1800 Coconut is created by infusing 1800 Silver Tequila, made from 100% Blue Agave harvested and handpicked from family owned ranches in Jalisco, with fresh, ripe coconut flavor. The delicate coconut flavor and mild sweetness perfectly balanced the bold notes of the 1800 Silver, yielding a unique, tropical taste experience. This versatile spirit can be enjoyed straight, as a chilled shot, or on the rocks.]]></description>
-      <g:product_type><![CDATA[Liquor > Tequila]]></g:product_type>
-      <g:google_product_category><![CDATA[]]></g:google_product_category>
-      <g:image_link><![CDATA[https://laneway.melbourneairport.com.au/media/catalog/product/3/b/3bba6dcc-9867-461a-9ab5-21b32618cd14.jpeg]]></g:image_link>
-      <g:additional_image_link><![CDATA[https://laneway.melbourneairport.com.au/media/catalog/product/3/b/3bba6dcc-9867-461a-9ab5-21b32618cd14.jpeg]]></g:additional_image_link>
-      <g:condition>new</g:condition>
-      <g:availability>in stock</g:availability>
-      <g:shipping_weight>0.000000 kg</g:shipping_weight>
-      <g:brand><![CDATA[]]></g:brand>
-      <g:mpn><![CDATA[LOTT_2071655851]]></g:mpn>
-      <g:gtin><![CDATA[]]></g:gtin>
-    </item>
     <item>
       <g:id><![CDATA[LOTT_2071655851]]></g:id>
       <title><![CDATA[1800 Coconut Tequila 700ml test]]></title>
