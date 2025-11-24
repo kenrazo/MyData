@@ -18,7 +18,7 @@ Upgrade your tack with METALAB stainless steel side rings, engineered for both d
 <g:condition></g:condition>
 <g:availability>in_stock</g:availability>
 <g:price>19.95 AUD</g:price>
-<g:sale_price></g:sale_price>
+<g:sale_price>5</g:sale_price>
 <g:mpn>132570</g:mpn>
 <g:brand>Develop-free</g:brand>
 <g:canonical_link>https://www.yoursaddlery.com.au/product/metalab-side-rings-90mm/</g:canonical_link>
@@ -4292,5 +4292,6 @@ KEP lining is available in 12 sizes, depending on the size of the shell: Medium 
 </item>
 </channel>
 </rss>
+
 
 
