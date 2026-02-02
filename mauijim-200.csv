@@ -1,7 +1,7 @@
 SKU,BaseCode,Name,BaseCurve,BridgeSize,EyeSize,TempleSize,VerticalSize,AsianFitIndicator,AutomaticPlusOption,AvailabilityAsMauiPlano,AvailabilityAsMauiReader,ImageUrl,FrameColor,LensColor,LensGradient,LensMaterial,ReaderPower,StockLevel,StockStatus,TshirtDesign
-MM103-001,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-001_front.jpg,Gloss Black,Neutral Grey,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-002,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-002_front.jpg,Gloss Black,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-003,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-003_front.jpg,Gloss Black,Maui HT™,Bi-Gradient,MauiBrilliant,0,2530,inStock,
+MM103-001,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-001_front.jpg,Gloss Black,Neutral Grey 555,Bi-Gradient,MauiBrilliant,0,2530,inStock,
+MM103-002,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-002_front.jpg,Gloss Black,HCL® Bronze 555,Bi-Gradient,MauiBrilliant,0,2530,inStock,
+MM103-003,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-003_front.jpg,Gloss Black,Maui HT™ 555,Bi-Gradient,MauiBrilliant,0,2530,inStock,
 MM103-004,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-004_front.jpg,Gloss Black,Maui Rose®,Bi-Gradient,MauiBrilliant,0,2530,inStock,
 MM103-005,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-005_front.jpg,Tortoise,Neutral Grey,Bi-Gradient,MauiBrilliant,0,2530,inStock,
 MM103-006,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-006_front.jpg,Tortoise,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,2530,inStock,
@@ -97,8 +97,8 @@ MR103-093,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.maui
 MR103-094,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-038_front.jpg,Tortoise,MAUIGreen®,Full Mirror,Readers,1.5,997,inStock,
 MR103-095,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-038_front.jpg,Tortoise,MAUIGreen®,Full Mirror,Readers,2,993,inStock,
 MR103-096,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-038_front.jpg,Tortoise,MAUIGreen®,Full Mirror,Readers,2.5,996,inStock,
-MM162-001,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-001_front.jpg,Gunmetal,Neutral Grey,Bi-Gradient,MauiBrilliant,0,835,inStock,
-MM162-002,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-002_front.jpg,Gunmetal,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,835,inStock,
+MM162-001,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-001_front.jpg,Gunmetal,Neutral Grey,Bi-Gradient 555,MauiBrilliant,0,835,inStock,
+MM162-002,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-002_front.jpg,Gunmetal,HCL® Bronze,Bi-Gradient 5555,MauiBrilliant,0,835,inStock,
 MM162-003,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-003_front.jpg,Gunmetal,Maui HT™,Bi-Gradient,MauiBrilliant,0,835,inStock,
 MM162-004,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-004_front.jpg,Gunmetal,Maui Rose®,Bi-Gradient,MauiBrilliant,0,835,inStock,
 MM162-005,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-005_front.jpg,Gunmetal,HCL® Bronze,Bi-Gradient,SuperThin Glass,0,835,inStock,
@@ -370,111 +370,111 @@ MR249-045,MM249,BLACK CORAL,8,15,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.m
 MR249-046,MM249,BLACK CORAL,8,15,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/249/MM249-018_front.jpg,Matte Black,MAUIGreen®,Full Mirror,Readers,1.5,998,inStock,
 MR249-047,MM249,BLACK CORAL,8,15,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/249/MM249-018_front.jpg,Matte Black,MAUIGreen®,Full Mirror,Readers,2,997,inStock,
 MR249-048,MM249,BLACK CORAL,8,15,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/249/MM249-018_front.jpg,Matte Black,MAUIGreen®,Full Mirror,Readers,2.5,999,inStock,
-MM245-007,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-008,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-008_front.jpg,Gold,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-009,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HT™,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-010,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-011,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-011_front.jpg,Gold,Neutral Grey,MauiGradient®,MauiPure,0,344,inStock,
-MM245-013,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-014,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-015,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-015_front.jpg,Silver,Maui HT™,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-016,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-017,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-017_front.jpg,Silver,HCL® Bronze,MauiGradient®,MauiPure,0,344,inStock,
-MM245-019,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,MauiPure,0,1456,inStock,
-MM245-020,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,MauiPure,0,344,inStock,
-MM245-021,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-021_front.jpg,Gold,MAUI Sunrise,Full Mirror,MauiPure,0,344,inStock,
-MM245-023,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-023_front.jpg,Rose Gold,Blue Hawaii,Full Mirror,MauiPure,0,344,inStock,
-MM245-024,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-024_front.jpg,Rose Gold,Neutral Grey,MauiGradient®,MauiPure,0,344,inStock,
-MM245-025,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-025_front.jpg,Rose Gold,HCL® Bronze,MauiGradient®,MauiPure,0,344,inStock,
-MM245-027,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-027_front.jpg,Rose Gold,Maui Rose®,Bi-Gradient,MauiBrilliant,0,344,inStock,
-MM245-029,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-029_front.jpg,Rose Gold,Neutral Grey,Bi-Gradient,MauiBrilliant,0,789,inStock,
-MM245-031,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-031_front.jpg,Rose Gold,Maui HT™,Bi-Gradient,MauiBrilliant,0,789,inStock,
-MM245-033,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,1456,inStock,
-MM245-034,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-034_front.jpg,Rose Gold,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,789,inStock,
-MM245-035,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-035_front.jpg,Silver,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,344,inStock,
-MM245-037,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-037_front.jpg,Gold,MAUIGreen®,Full Mirror,MauiBrilliant,0,1456,inStock,
-MM245-038,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-038_front.jpg,Rose Gold,MAUIGreen®,Full Mirror,MauiBrilliant,0,789,inStock,
-MM245-039,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-039_front.jpg,Silver,MAUIGreen®,Full Mirror,MauiBrilliant,0,344,inStock,
-MR245-001,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,Readers,1.5,999,inStock,
-MR245-002,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,Readers,1.5,93,inStock,
-MR245-003,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,Readers,1.5,81,inStock,
-MR245-004,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-015_front.jpg,Silver,Maui HT™,Bi-Gradient,Readers,1.5,86,inStock,
-MR245-005,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,Readers,2,999,inStock,
-MR245-006,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,Readers,2,89,inStock,
-MR245-007,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,Readers,2,93,inStock,
-MR245-008,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-015_front.jpg,Silver,Maui HT™,Bi-Gradient,Readers,2,97,inStock,
-MR245-009,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,Readers,2.5,999,inStock,
-MR245-010,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,Readers,2.5,94,inStock,
-MR245-011,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,Readers,2.5,96,inStock,
-MR245-012,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-015_front.jpg,Silver,Maui HT™,Bi-Gradient,Readers,2.5,88,inStock,
-MR245-013,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,Readers,1.5,94,inStock,
-MR245-015,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,Readers,1.5,72,inStock,
-MR245-016,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HT™,Bi-Gradient,Readers,1.5,95,inStock,
-MR245-017,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,Readers,2,88,inStock,
-MR245-019,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,Readers,2,77,inStock,
-MR245-020,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HT™,Bi-Gradient,Readers,2,96,inStock,
-MR245-021,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,Readers,2.5,89,inStock,
-MR245-023,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,Readers,2.5,89,inStock,
-MR245-024,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HT™,Bi-Gradient,Readers,2.5,98,inStock,
-MR245-025,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-024_front.jpg,Rose Gold,Neutral Grey,Bi-Gradient,Readers,1.5,86,inStock,
-MR245-026,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-024_front.jpg,Rose Gold,HCL® Bronze,Bi-Gradient,Readers,1.5,88,inStock,
-MR245-027,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-027_front.jpg,Rose Gold,Maui Rose®,Bi-Gradient,Readers,1.5,64,inStock,
-MR245-028,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-024_front.jpg,Rose Gold,Maui HT™,Bi-Gradient,Readers,1.5,97,inStock,
-MR245-029,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-025_front.jpg,Rose Gold,Neutral Grey,Bi-Gradient,Readers,2,91,inStock,
-MR245-030,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-025_front.jpg,Rose Gold,HCL® Bronze,Bi-Gradient,Readers,2,79,inStock,
-MR245-031,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-027_front.jpg,Rose Gold,Maui Rose®,Bi-Gradient,Readers,2,65,inStock,
-MR245-032,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-025_front.jpg,Rose Gold,Maui HT™,Bi-Gradient,Readers,2,96,inStock,
-MR245-033,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-026_front.jpg,Rose Gold,Neutral Grey,Bi-Gradient,Readers,2.5,91,inStock,
-MR245-034,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-026_front.jpg,Rose Gold,HCL® Bronze,Bi-Gradient,Readers,2.5,89,inStock,
-MR245-035,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-027_front.jpg,Rose Gold,Maui Rose®,Bi-Gradient,Readers,2.5,60,inStock,
-MR245-036,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-026_front.jpg,Rose Gold,Maui HT™,Bi-Gradient,Readers,2.5,98,inStock,
-MR245-049,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/B245-17_front.jpg,Silver,Blue Hawaii,Full Mirror,Readers,1.5,868,inStock,
-MR245-050,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/B245-17_front.jpg,Silver,Blue Hawaii,Full Mirror,Readers,2,862,inStock,
-MR245-051,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/B245-17_front.jpg,Silver,Blue Hawaii,Full Mirror,Readers,2.5,882,inStock,
-MR245-052,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,Readers,1.5,987,inStock,
-MR245-053,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,Readers,2,984,inStock,
-MR245-054,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,Readers,2.5,990,inStock,
-MR245-055,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-023_front.jpg,Rose Gold,Blue Hawaii,Full Mirror,Readers,1.5,995,inStock,
-MR245-056,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-023_front.jpg,Rose Gold,Blue Hawaii,Full Mirror,Readers,2,996,inStock,
-MR245-057,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-023_front.jpg,Rose Gold,Blue Hawaii,Full Mirror,Readers,2.5,995,inStock,
-MR245-064,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-021_front.jpg,Gold,MAUI Sunrise,Full Mirror,Readers,1.5,984,inStock,
-MR245-065,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-021_front.jpg,Gold,MAUI Sunrise,Full Mirror,Readers,2,982,inStock,
-MR245-066,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-021_front.jpg,Gold,MAUI Sunrise,Full Mirror,Readers,2.5,987,inStock,
-MR245-070,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,Readers,1.5,981,inStock,
-MR245-071,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,Readers,2,980,inStock,
-MR245-072,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,Readers,2.5,990,inStock,
-MR245-076,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,Readers,1.5,991,inStock,
-MR245-077,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,Readers,2,993,inStock,
-MR245-078,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,Readers,2.5,993,inStock,
-MR245-079,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-034_front.jpg,Rose Gold,HAWAII LAVA™,Full Mirror,Readers,1.5,998,inStock,
-MR245-080,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-034_front.jpg,Rose Gold,HAWAII LAVA™,Full Mirror,Readers,2,995,inStock,
-MR245-081,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-034_front.jpg,Rose Gold,HAWAII LAVA™,Full Mirror,Readers,2.5,996,inStock,
-MR245-082,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-035_front.jpg,Silver,HAWAII LAVA™,Full Mirror,Readers,1.5,991,inStock,
-MR245-083,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-035_front.jpg,Silver,HAWAII LAVA™,Full Mirror,Readers,2,994,inStock,
-MR245-084,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-035_front.jpg,Silver,HAWAII LAVA™,Full Mirror,Readers,2.5,995,inStock,
-MR245-088,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-037_front.jpg,Gold,MAUIGreen®,Full Mirror,Readers,1.5,997,inStock,
-MR245-089,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-037_front.jpg,Gold,MAUIGreen®,Full Mirror,Readers,2,998,inStock,
-MR245-090,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-037_front.jpg,Gold,MAUIGreen®,Full Mirror,Readers,2.5,998,inStock,
-MR245-091,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-038_front.jpg,Rose Gold,MAUIGreen®,Full Mirror,Readers,1.5,999,inStock,
-MR245-092,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-038_front.jpg,Rose Gold,MAUIGreen®,Full Mirror,Readers,2,999,inStock,
-MR245-093,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-038_front.jpg,Rose Gold,MAUIGreen®,Full Mirror,Readers,2.5,996,inStock,
-MR245-094,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-039_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,1.5,994,inStock,
-MR245-095,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-039_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,2,995,inStock,
-MR245-096,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-039_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,2.5,995,inStock,
-MM246-007,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit
-MM246-008,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-008_front.jpg,Gold,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit
-MM246-009,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-009_front.jpg,Gold,Maui HT™,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit
-MM246-010,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit
-MM246-011,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-011_front.jpg,Gold,Neutral Grey,MauiGradient®,MauiPure,0,686,inStock,Red fit
-MM246-013,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit
-MM246-014,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit
-MM246-015,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-015_front.jpg,Silver,Maui HT™,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit
-MM246-016,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit
-MM246-017,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-017_front.jpg,Silver,HCL® Bronze,MauiGradient®,MauiPure,0,686,inStock,Red fit
-MM246-019,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-019_front.jpg,Gold,Blue Hawaii,Full Mirror,MauiPure,0,153,inStock,Red fit
-MM246-022,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-022_front.jpg,Gold,MAUI Sunrise,Full Mirror,MauiBrilliant,0,686,inStock,Red fit
-MM246-023,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-023_front.jpg,Silver,MAUI Sunrise,Full Mirror,MauiBrilliant,0,686,inStock,Red fit
-MM246-033,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,1597,inStock,Red fit
+MM245-007,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1143
+MM245-008,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-008_front.jpg,Gold,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1144
+MM245-009,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HT™,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1145
+MM245-010,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1146
+MM245-011,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-011_front.jpg,Gold,Neutral Grey,MauiGradient®,MauiPure,0,344,inStock,Red fit 1147
+MM245-013,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1148
+MM245-014,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1149
+MM245-015,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-015_front.jpg,Silver,Maui HT™,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1150
+MM245-016,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1151
+MM245-017,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-017_front.jpg,Silver,HCL® Bronze,MauiGradient®,MauiPure,0,344,inStock,Red fit 1152
+MM245-019,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,MauiPure,0,1456,inStock,Red fit 1153
+MM245-020,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,MauiPure,0,344,inStock,Red fit 1154
+MM245-021,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-021_front.jpg,Gold,MAUI Sunrise,Full Mirror,MauiPure,0,344,inStock,Red fit 1155
+MM245-023,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-023_front.jpg,Rose Gold,Blue Hawaii,Full Mirror,MauiPure,0,344,inStock,Red fit 1156
+MM245-024,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-024_front.jpg,Rose Gold,Neutral Grey,MauiGradient®,MauiPure,0,344,inStock,Red fit 1157
+MM245-025,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-025_front.jpg,Rose Gold,HCL® Bronze,MauiGradient®,MauiPure,0,344,inStock,Red fit 1158
+MM245-027,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-027_front.jpg,Rose Gold,Maui Rose®,Bi-Gradient,MauiBrilliant,0,344,inStock,Red fit 1159
+MM245-029,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-029_front.jpg,Rose Gold,Neutral Grey,Bi-Gradient,MauiBrilliant,0,789,inStock,Red fit 1160
+MM245-031,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-031_front.jpg,Rose Gold,Maui HT™,Bi-Gradient,MauiBrilliant,0,789,inStock,Red fit 1161
+MM245-033,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,1456,inStock,Red fit 1162
+MM245-034,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-034_front.jpg,Rose Gold,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,789,inStock,Red fit 1163
+MM245-035,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-035_front.jpg,Silver,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,344,inStock,Red fit 1164
+MM245-037,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-037_front.jpg,Gold,MAUIGreen®,Full Mirror,MauiBrilliant,0,1456,inStock,Red fit 1165
+MM245-038,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-038_front.jpg,Rose Gold,MAUIGreen®,Full Mirror,MauiBrilliant,0,789,inStock,Red fit 1166
+MM245-039,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-039_front.jpg,Silver,MAUIGreen®,Full Mirror,MauiBrilliant,0,344,inStock,Red fit 1167
+MR245-001,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,Readers,1.5,999,inStock,Red fit 1168
+MR245-002,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,Readers,1.5,93,inStock,Red fit 1169
+MR245-003,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,Readers,1.5,81,inStock,Red fit 1170
+MR245-004,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-015_front.jpg,Silver,Maui HT™,Bi-Gradient,Readers,1.5,86,inStock,Red fit 1171
+MR245-005,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,Readers,2,999,inStock,Red fit 1172
+MR245-006,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,Readers,2,89,inStock,Red fit 1173
+MR245-007,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,Readers,2,93,inStock,Red fit 1174
+MR245-008,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-015_front.jpg,Silver,Maui HT™,Bi-Gradient,Readers,2,97,inStock,Red fit 1175
+MR245-009,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,Readers,2.5,999,inStock,Red fit 1176
+MR245-010,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,Readers,2.5,94,inStock,Red fit 1177
+MR245-011,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,Readers,2.5,96,inStock,Red fit 1178
+MR245-012,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-015_front.jpg,Silver,Maui HT™,Bi-Gradient,Readers,2.5,88,inStock,Red fit 1179
+MR245-013,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,Readers,1.5,94,inStock,Red fit 1180
+MR245-015,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,Readers,1.5,72,inStock,Red fit 1181
+MR245-016,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HT™,Bi-Gradient,Readers,1.5,95,inStock,Red fit 1182
+MR245-017,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,Readers,2,88,inStock,Red fit 1183
+MR245-019,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,Readers,2,77,inStock,Red fit 1184
+MR245-020,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HT™,Bi-Gradient,Readers,2,96,inStock,Red fit 1185
+MR245-021,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,Readers,2.5,89,inStock,Red fit 1186
+MR245-023,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,Readers,2.5,89,inStock,Red fit 1187
+MR245-024,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HT™,Bi-Gradient,Readers,2.5,98,inStock,Red fit 1188
+MR245-025,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-024_front.jpg,Rose Gold,Neutral Grey,Bi-Gradient,Readers,1.5,86,inStock,Red fit 1189
+MR245-026,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-024_front.jpg,Rose Gold,HCL® Bronze,Bi-Gradient,Readers,1.5,88,inStock,Red fit 1190
+MR245-027,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-027_front.jpg,Rose Gold,Maui Rose®,Bi-Gradient,Readers,1.5,64,inStock,Red fit 1191
+MR245-028,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-024_front.jpg,Rose Gold,Maui HT™,Bi-Gradient,Readers,1.5,97,inStock,Red fit 1192
+MR245-029,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-025_front.jpg,Rose Gold,Neutral Grey,Bi-Gradient,Readers,2,91,inStock,Red fit 1193
+MR245-030,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-025_front.jpg,Rose Gold,HCL® Bronze,Bi-Gradient,Readers,2,79,inStock,Red fit 1194
+MR245-031,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-027_front.jpg,Rose Gold,Maui Rose®,Bi-Gradient,Readers,2,65,inStock,Red fit 1195
+MR245-032,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-025_front.jpg,Rose Gold,Maui HT™,Bi-Gradient,Readers,2,96,inStock,Red fit 1196
+MR245-033,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-026_front.jpg,Rose Gold,Neutral Grey,Bi-Gradient,Readers,2.5,91,inStock,Red fit 1197
+MR245-034,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-026_front.jpg,Rose Gold,HCL® Bronze,Bi-Gradient,Readers,2.5,89,inStock,Red fit 1198
+MR245-035,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-027_front.jpg,Rose Gold,Maui Rose®,Bi-Gradient,Readers,2.5,60,inStock,Red fit 1199
+MR245-036,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-026_front.jpg,Rose Gold,Maui HT™,Bi-Gradient,Readers,2.5,98,inStock,Red fit 1200
+MR245-049,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/B245-17_front.jpg,Silver,Blue Hawaii,Full Mirror,Readers,1.5,868,inStock,Red fit 1201
+MR245-050,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/B245-17_front.jpg,Silver,Blue Hawaii,Full Mirror,Readers,2,862,inStock,Red fit 1202
+MR245-051,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/B245-17_front.jpg,Silver,Blue Hawaii,Full Mirror,Readers,2.5,882,inStock,Red fit 1203
+MR245-052,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,Readers,1.5,987,inStock,Red fit 1204
+MR245-053,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,Readers,2,984,inStock,Red fit 1205
+MR245-054,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,Readers,2.5,990,inStock,Red fit 1206
+MR245-055,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-023_front.jpg,Rose Gold,Blue Hawaii,Full Mirror,Readers,1.5,995,inStock,Red fit 1207
+MR245-056,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-023_front.jpg,Rose Gold,Blue Hawaii,Full Mirror,Readers,2,996,inStock,Red fit 1208
+MR245-057,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-023_front.jpg,Rose Gold,Blue Hawaii,Full Mirror,Readers,2.5,995,inStock,Red fit 1209
+MR245-064,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-021_front.jpg,Gold,MAUI Sunrise,Full Mirror,Readers,1.5,984,inStock,Red fit 1210
+MR245-065,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-021_front.jpg,Gold,MAUI Sunrise,Full Mirror,Readers,2,982,inStock,Red fit 1211
+MR245-066,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-021_front.jpg,Gold,MAUI Sunrise,Full Mirror,Readers,2.5,987,inStock,Red fit 1212
+MR245-070,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,Readers,1.5,981,inStock,Red fit 1213
+MR245-071,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,Readers,2,980,inStock,Red fit 1214
+MR245-072,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,Readers,2.5,990,inStock,Red fit 1215
+MR245-076,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,Readers,1.5,991,inStock,Red fit 1216
+MR245-077,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,Readers,2,993,inStock,Red fit 1217
+MR245-078,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,Readers,2.5,993,inStock,Red fit 1218
+MR245-079,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-034_front.jpg,Rose Gold,HAWAII LAVA™,Full Mirror,Readers,1.5,998,inStock,Red fit 1219
+MR245-080,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-034_front.jpg,Rose Gold,HAWAII LAVA™,Full Mirror,Readers,2,995,inStock,Red fit 1220
+MR245-081,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-034_front.jpg,Rose Gold,HAWAII LAVA™,Full Mirror,Readers,2.5,996,inStock,Red fit 1221
+MR245-082,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-035_front.jpg,Silver,HAWAII LAVA™,Full Mirror,Readers,1.5,991,inStock,Red fit 1222
+MR245-083,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-035_front.jpg,Silver,HAWAII LAVA™,Full Mirror,Readers,2,994,inStock,Red fit 1223
+MR245-084,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-035_front.jpg,Silver,HAWAII LAVA™,Full Mirror,Readers,2.5,995,inStock,Red fit 1224
+MR245-088,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-037_front.jpg,Gold,MAUIGreen®,Full Mirror,Readers,1.5,997,inStock,Red fit 1225
+MR245-089,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-037_front.jpg,Gold,MAUIGreen®,Full Mirror,Readers,2,998,inStock,Red fit 1226
+MR245-090,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-037_front.jpg,Gold,MAUIGreen®,Full Mirror,Readers,2.5,998,inStock,Red fit 1227
+MR245-091,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-038_front.jpg,Rose Gold,MAUIGreen®,Full Mirror,Readers,1.5,999,inStock,Red fit 1228
+MR245-092,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-038_front.jpg,Rose Gold,MAUIGreen®,Full Mirror,Readers,2,999,inStock,Red fit 1229
+MR245-093,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-038_front.jpg,Rose Gold,MAUIGreen®,Full Mirror,Readers,2.5,996,inStock,Red fit 1230
+MR245-094,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-039_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,1.5,994,inStock,Red fit 1231
+MR245-095,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-039_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,2,995,inStock,Red fit 1232
+MR245-096,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-039_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,2.5,995,inStock,Red fit 1233
+MM246-007,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit 1234
+MM246-008,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-008_front.jpg,Gold,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit 1235
+MM246-009,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-009_front.jpg,Gold,Maui HT™,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit 1236
+MM246-010,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-010_front.jpg,Gold,Maui Rose®,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit 1237
+MM246-011,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-011_front.jpg,Gold,Neutral Grey,MauiGradient®,MauiPure,0,686,inStock,Red fit 1238
+MM246-013,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit 1239
+MM246-014,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit 1240
+MM246-015,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-015_front.jpg,Silver,Maui HT™,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit 1241
+MM246-016,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,MauiBrilliant,0,686,inStock,Red fit 1242
+MM246-017,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-017_front.jpg,Silver,HCL® Bronze,MauiGradient®,MauiPure,0,686,inStock,Red fit 1243
+MM246-019,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-019_front.jpg,Gold,Blue Hawaii,Full Mirror,MauiPure,0,153,inStock,Red fit 1244
+MM246-022,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-022_front.jpg,Gold,MAUI Sunrise,Full Mirror,MauiBrilliant,0,686,inStock,Red fit 1245
+MM246-023,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-023_front.jpg,Silver,MAUI Sunrise,Full Mirror,MauiBrilliant,0,686,inStock,Red fit 1246
+MM246-033,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-033_front.jpg,Gold,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,1597,inStock,Red fit 1247
 MM246-034,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-034_front.jpg,Silver,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,686,inStock,Red fit
 MM246-036,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-036_front.jpg,Gold,MAUIGreen®,Full Mirror,MauiBrilliant,0,1597,inStock,Red fit
 MM246-037,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-037_front.jpg,Silver,MAUIGreen®,Full Mirror,MauiBrilliant,0,686,inStock,Red fit
@@ -482,7 +482,7 @@ MR246-001,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mau
 MR246-002,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,Readers,1.5,96,inStock,Red fit
 MR246-003,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,Readers,1.5,94,inStock,Red fit
 MR246-004,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-015_front.jpg,Silver,Maui HT™,Bi-Gradient,Readers,1.5,93,inStock,Red fit
-MR246-005,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,Readers,2,45,inStock,Red fit
+MR246-005,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-013_front.jpg,Silver,Neutral Grey,Bi-Gradient,Readers,2,45,inStock,Red fit 
 MR246-006,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-014_front.jpg,Silver,HCL® Bronze,Bi-Gradient,Readers,2,94,inStock,Red fit
 MR246-007,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-016_front.jpg,Silver,Maui Rose®,Bi-Gradient,Readers,2,95,inStock,Red fit
 MR246-008,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-015_front.jpg,Silver,Maui HT™,Bi-Gradient,Readers,2,95,inStock,Red fit
