@@ -1,12 +1,5 @@
 SKU,BaseCode,Name,BaseCurve,BridgeSize,EyeSize,TempleSize,VerticalSize,AsianFitIndicator,AutomaticPlusOption,AvailabilityAsMauiPlano,AvailabilityAsMauiReader,ImageUrl,FrameColor,LensColor,LensGradient,LensMaterial,ReaderPower,StockLevel,StockStatus,TshirtDesign
-MM103-001,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-001_front.jpg,Gloss Black,Neutral Grey 555,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-002,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-002_front.jpg,Gloss Black,HCL® Bronze 555,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-003,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-003_front.jpg,Gloss Black,Maui HT™ 555,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-004,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-004_front.jpg,Gloss Black,Maui Rose®,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-005,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-005_front.jpg,Tortoise,Neutral Grey,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-006,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-006_front.jpg,Tortoise,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-007,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-007_front.jpg,Tortoise,Maui HT™,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-008,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-008_front.jpg,Tortoise,Maui Rose®,Bi-Gradient,MauiBrilliant,0,2530,inStock,
-MM103-009,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-009_front.jpg,Tortoise,Neutral Grey,Bi-Gradient,SuperThin Glass,0,2530,inStock,
+MM103-001,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-001_front.jpg,Gloss Black,Neutral Grey 555,Bi-Gradient,MauiBrilliant,0,2530,inStock
+
 
 
