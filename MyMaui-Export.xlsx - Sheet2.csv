@@ -1,6 +1,6 @@
 SKU,BaseCode,Name,BaseCurve,BridgeSize,EyeSize,TempleSize,VerticalSize,AsianFitIndicator,AutomaticPlusOption,AvailabilityAsMauiPlano,AvailabilityAsMauiReader,ImageUrl,FrameColor,LensColor,LensGradient,LensMaterial,ReaderPower,StockLevel,StockStatus
-MM103-001,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-001_front.jpg,Gloss Black 555,Neutral Grey 55,Bi-Gradient 555,MauiBrilliant 555,0,2530,inStock
-MM103-002,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-002_front.jpg,Gloss Black,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,2530,inStock
+MM103-001,MM103,STINGRAY 5555,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-001_front.jpg,Gloss Black 555,Neutral Grey 55,Bi-Gradient 555,MauiBrilliant 555,0,2530,inStock
+MM103-002,MM103,STINGRAY 5555,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-002_front.jpg,Gloss Black,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,2530,inStock
 MM103-003,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-003_front.jpg,Gloss Black,Maui HT™,Bi-Gradient,MauiBrilliant,0,2530,inStock
 MM103-004,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-004_front.jpg,Gloss Black,Maui Rose®,Bi-Gradient,MauiBrilliant,0,2530,inStock
 MM103-005,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-005_front.jpg,Tortoise,Neutral Grey,Bi-Gradient,MauiBrilliant,0,2530,inStock
@@ -109,7 +109,7 @@ MM162-017,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauiji
 MM162-018,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-018_front.jpg,Metallic Gloss Copper,MAUIGreen®,Full Mirror,MauiBrilliant,0,835,inStock
 MR162-001,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-005_front.jpg,Gunmetal,HCL® Bronze,Bi-Gradient,Readers,1.5,73,inStock
 MR162-002,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-005_front.jpg,Gunmetal,HCL® Bronze,Bi-Gradient,Readers,2,79,inStock
-MR162-003,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-005_front.jpg,Gunmetal,HCL® Bronze,Bi-Gradient,Readers,2.5,88,inStock
+MR162-003,MM162,KAHUNA 555,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-005_front.jpg,Gunmetal,HCL® Bronze,Bi-Gradient,Readers,2.5,88,inStock
 MR162-004,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-003_front.jpg,Gunmetal,Maui HT™,Bi-Gradient,Readers,1.5,90,inStock
 MR162-005,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-003_front.jpg,Gunmetal,Maui HT™,Bi-Gradient,Readers,2,89,inStock
 MR162-006,MM162,KAHUNA,8,18,61,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/162/MM162-003_front.jpg,Gunmetal,Maui HT™,Bi-Gradient,Readers,2.5,90,inStock
@@ -159,7 +159,7 @@ MM202-043,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim
 MM202-044,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-044_front.jpg,Black Matte Rubber,MAUI Sunrise,Full Mirror,MauiBrilliant,0,4902,inStock
 MM202-047,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-047_front.jpg,Gloss Black,Blue Hawaii,Full Mirror,MauiBrilliant,0,0,outOfStock
 MM202-048,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-048_front.jpg,Tortoise,Blue Hawaii,Full Mirror,MauiBrilliant,0,42,inStock
-MM202-062,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-062_front.jpg,Gloss Black,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,0,outOfStock
+MM202-062,MM202,PEAHI 555,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-062_front.jpg,Gloss Black,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,0,outOfStock
 MM202-065,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-065_front.jpg,Tortoise,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,42,inStock
 MM202-066,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-066_front.jpg,Black Matte Rubber,HAWAII LAVA™,Full Mirror,MauiBrilliant,0,4902,inStock
 MM202-069,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-069_front.jpg,Black Matte Rubber,Blue Hawaii,Full Mirror,MauiBrilliant,0,4902,inStock
@@ -526,4 +526,5 @@ MR246-069,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mau
 MR246-070,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-037_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,1.5,997,inStock
 MR246-071,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-037_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,2,996,inStock
 MR246-072,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-037_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,2.5,997,inStock
+
 
