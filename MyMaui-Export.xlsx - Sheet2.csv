@@ -1,4 +1,4 @@
-SKU123123,BaseCode,Name,BaseCurve,BridgeSize,EyeSize,TempleSize,VerticalSize,AsianFitIndicator,AutomaticPlusOption,AvailabilityAsMauiPlano,AvailabilityAsMauiReader,ImageUrl,FrameColor,LensColor,LensGradient,LensMaterial,ReaderPower,StockLevel,StockStatus
+SKU,BaseCode,Name,BaseCurve,BridgeSize,EyeSize,TempleSize,VerticalSize,AsianFitIndicator,AutomaticPlusOption,AvailabilityAsMauiPlano,AvailabilityAsMauiReader,ImageUrl,FrameColor,LensColor,LensGradient,LensMaterial,ReaderPower,StockLevel,StockStatus
 MM103-001,MM103,STINGRAY 5555,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-001_front5555.jpg,Gloss Black 555,Neutral Grey 55,Bi-Gradient 555,MauiBrilliant 555,0,2530,inStock
 MM103-002,MM103,STINGRAY 5555,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-002_front5555.jpg,Gloss Black,HCL® Bronze,Bi-Gradient,MauiBrilliant,0,2530,inStock
 MM103-003,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-003_fron5555t.jpg,Gloss Black,Maui HT™,Bi-Gradient,MauiBrilliant,0,2530,inStock
@@ -526,6 +526,7 @@ MR246-069,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mau
 MR246-070,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-037_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,1.5,997,inStock
 MR246-071,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-037_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,2,996,inStock
 MR246-072,MM246,WIKI WIKI,6,16,59,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/246/MM246-037_front.jpg,Silver,MAUIGreen®,Full Mirror,Readers,2.5,997,inStock
+
 
 
 
