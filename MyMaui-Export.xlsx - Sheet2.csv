@@ -1,6 +1,6 @@
 SKU,BaseCode,Name,BaseCurve,BridgeSize,EyeSize,TempleSize,VerticalSize,AsianFitIndicator,AutomaticPlusOption,AvailabilityAsMauiPlano,AvailabilityAsMauiReader,ImageUrl,FrameColor,LensColor,LensGradient,LensMaterial,ReaderPower,StockLevel,StockStatus,TshirtDesign,FrameSize,
 MM103-003,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-003_front.jpg,Gloss Black,Maui HTâ„¢ 555,Bi-Gradient,MauiBrilliant,0,623519,inStock,10,44,
-MM103-004,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-004_front.jpg,Gloss Black,Maui RoseÂ®,Bi-Gradient,MauiBrilliant,0,623520,inStock,10,22,
+MM103-004,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-004_front.jpg,Gloss Black,Maui RoseÂ®,Bi-Gradient,MauiBrilliant,0,623520,inStock,10,666,
 MM103-005,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-005_front.jpg,Tortoise,Neutral Grey,Bi-Gradient,MauiBrilliantss,0,2530,inStock,10,11,
 MM103-006,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-006_front.jpg,Tortoise,Warrior Red,Bi-Gradients,MauiBrilliant,0,2530,inStock,10,12,
 MM103-007,MM103,STINGRAY,8,21,56,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/103/MM103-007_front.jpg,Tortoise,Maui HTâ„¢,Bi-Gradient,MauiBrilliant,0,2530,inStock,10,13,
@@ -74,7 +74,6 @@ MM202-047,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim
 MM202-048,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-048_front.jpg,Tortoise,Blue Hawaii,Full Mirror,MauiBrilliant,0,42,inStock,10,11,
 MM202-062,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-062_front.jpg,Gloss Black,HAWAII LAVAâ„¢,Full Mirror,MauiBrilliant,0,0,outOfStock,10,11,
 MM202-065,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-065_front.jpg,Tortoise,HAWAII LAVAâ„¢,Full Mirror,MauiBrilliant,0,42,inStock,10,11,
-MM202-066,MM202,PEAHI,8,19,65,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/202/MM202-066_front.jpg,Black Matte Rubber,HAWAII LAVAâ„¢,Full Mirror,MauiBrilliant,0,4902,inStock,10,11,
 MM245-007,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-007_front.jpg,Gold,Neutral Grey,Bi-Gradient,MauiBrilliant,0,344,inStock,10,11,
 MM245-008,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-008_front.jpg,Gold,HCLÂ® Bronze,Bi-Gradient,MauiBrilliant,0,344,inStock,10,11,
 MM245-009,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-009_front.jpg,Gold,Maui HTâ„¢,Bi-Gradient,MauiBrilliant,0,344,inStock,10,11,
@@ -86,6 +85,7 @@ MM245-015,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.ma
 MM245-016,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-016_front.jpg,Silver,Maui RoseÂ®,Bi-Gradient,MauiBrilliant,0,344,inStock,10,11,
 MM245-019,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-019_front.jpg,Gold,Blue Hawaii,Full Mirror,MauiPure,0,1456,inStock,10,11,
 MM245-020,MM245,BABY BEACH,6,15,57,0,0,FALSE,FALSE,FALSE,FALSE,https://images.mauijim.com/mymaui/245/MM245-020_front.jpg,Silver,MAUI Sunrise,Full Mirror,MauiPure,0,344,inStock,10,11,
+
 
 
 
