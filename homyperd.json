@@ -487,5 +487,238 @@
         ]
       }
     ]
+  },
+    {
+    "id": "18137",
+    "product_id": "18137",
+    "title": "JAMIMA Black",
+    "body_html": "- **Description:**Jamima is the comfort casual shoe you will love this season by Homyped. These are not your average shoes. These comfort casuals have the Homyped Momentum footbed which helps to aid mobility and movement. They are podiatrist engineered with 3-degree high arch support and a stabilising heel cup. Jamima is ideal for those on their feet all day.\n    \n    This style is a D width, with the option to be worn as a C+ width. To create a C+ width (more snug fit), simply slip the Vari-fit innersole (that comes in the box) under the existing footbed.\n    \n    Homyped has been designing footwear in Australia since 1969, making us the original orthopaedic comfort shoe specialist. We cater to sizes 5 to 11 (some including half sizes) and widths from medium to extra wide. Our footbeds are designed with your feet in mind, while targeting common foot conditions such as bunions, heel spurs, plantar fasciitis, arthritis, swollen feet, and diabetic feet. Step into unparalleled comfort and experience the Homyped difference.\n- **Features:**\n- **Sizing &amp; Fitting:**\n- **Material:**\n- **Wellness Condition:**\n- **Shipping:****Free Shipping**\n    \n    Free shipping is available on all orders within Australia over $120 AUD.\n    \n    A flat rate of $12 AUD (Inc. GST) postage will be charged for any order less than $120 AUD.\n    \n    **Delivery**\n    \n    Estimated 5-7 Business Days in Metro Addresses.\n    \n    Estimated 4-9 Business Days in Regional Addresses.",
+    "vendor": "Homyped",
+    "product_type": "shoes",
+    "product_link": "https://www.homyped.com.au/jamima-black",
+    "tags": "Colour:Black, Barcode:9316308821447, Gender:Female, Width Fitting:C+/D, Arch Support:High, Foot Condition:[Arthritis,Plantar Fasciitis], Footbed Technology:[Variable,Momentum], Features & Benefits:[Engineered Grip,Heel Stability,Improved Posture,Orthotic Friendly,Wiggle Room], Size:[5,5.5,6,6.5,7,7.5,8,8.5,9,10,11]",
+    "variants": [
+      {
+        "id": "18125",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 5",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18125",
+        "inventory_quantity": 0
+      },
+      {
+        "id": "18126",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 5.5",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18126",
+        "inventory_quantity": 0
+      },
+      {
+        "id": "18127",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 6",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18127",
+        "inventory_quantity": 1
+      },
+      {
+        "id": "18128",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 6.5",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18128",
+        "inventory_quantity": 8
+      },
+      {
+        "id": "18129",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 7",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18129",
+        "inventory_quantity": 9
+      },
+      {
+        "id": "18130",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 7.5",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18130",
+        "inventory_quantity": 3
+      },
+      {
+        "id": "18131",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 8",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18131",
+        "inventory_quantity": 20
+      },
+      {
+        "id": "18132",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 8.5",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18132",
+        "inventory_quantity": 6
+      },
+      {
+        "id": "18133",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 9",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18133",
+        "inventory_quantity": 25
+      },
+      {
+        "id": "18134",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 10",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18134",
+        "inventory_quantity": 17
+      },
+      {
+        "id": "18135",
+        "product_id": "18137",
+        "title": "JAMIMA Black Black 11",
+        "price": "159.95",
+        "compare_at_price": "159.95",
+        "sku": "18135",
+        "inventory_quantity": 12
+      }
+    ],
+    "images": [
+      {
+        "id": "16748",
+        "product_id": "18137",
+        "width": 1053,
+        "height": 790,
+        "src": "https://www.homyped.com.au/media/catalog/product/w/2/w23046_black_2.jpg",
+        "variant_ids": [
+          "18125",
+          "18126",
+          "18127",
+          "18128",
+          "18129",
+          "18130",
+          "18131",
+          "18132",
+          "18133",
+          "18134",
+          "18135"
+        ]
+      },
+      {
+        "id": "16749",
+        "product_id": "18137",
+        "width": 1053,
+        "height": 790,
+        "src": "https://www.homyped.com.au/media/catalog/product/w/2/w23046_black_6.jpg",
+        "variant_ids": [
+          "18125",
+          "18126",
+          "18127",
+          "18128",
+          "18129",
+          "18130",
+          "18131",
+          "18132",
+          "18133",
+          "18134",
+          "18135"
+        ]
+      },
+      {
+        "id": "16750",
+        "product_id": "18137",
+        "width": 1053,
+        "height": 790,
+        "src": "https://www.homyped.com.au/media/catalog/product/w/2/w23046_black_1.jpg",
+        "variant_ids": [
+          "18125",
+          "18126",
+          "18127",
+          "18128",
+          "18129",
+          "18130",
+          "18131",
+          "18132",
+          "18133",
+          "18134",
+          "18135"
+        ]
+      },
+      {
+        "id": "16751",
+        "product_id": "18137",
+        "width": 1053,
+        "height": 790,
+        "src": "https://www.homyped.com.au/media/catalog/product/w/2/w23046_black_3.jpg",
+        "variant_ids": [
+          "18125",
+          "18126",
+          "18127",
+          "18128",
+          "18129",
+          "18130",
+          "18131",
+          "18132",
+          "18133",
+          "18134",
+          "18135"
+        ]
+      },
+      {
+        "id": "16752",
+        "product_id": "18137",
+        "width": 1053,
+        "height": 790,
+        "src": "https://www.homyped.com.au/media/catalog/product/w/2/w23046_black_4.jpg",
+        "variant_ids": [
+          "18125",
+          "18126",
+          "18127",
+          "18128",
+          "18129",
+          "18130",
+          "18131",
+          "18132",
+          "18133",
+          "18134",
+          "18135"
+        ]
+      },
+      {
+        "id": "16753",
+        "product_id": "18137",
+        "width": 1053,
+        "height": 790,
+        "src": "https://www.homyped.com.au/media/catalog/product/w/2/w23046_black_5.jpg",
+        "variant_ids": [
+          "18125",
+          "18126",
+          "18127",
+          "18128",
+          "18129",
+          "18130",
+          "18131",
+          "18132",
+          "18133",
+          "18134",
+          "18135"
+        ]
+      }
+    ]
   }
 ]
